@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritesh aka Hazardous</h1>
-- 👨‍💻 View portfolio **https://about-ritesh.netlify.app**
+- 👨‍💻 View portfolio https://about-ritesh.netlify.app
 
 - 📫 How to reach me **riteshjha2174@gmail.com**
 
