@@ -8,7 +8,11 @@
 🧑‍💻 Visit my Website: [https://about-ritesh.netlify.app/](https://about-ritesh.netlify.app/)
 
 ## 📈 GitHub Stats
-![Ritesh Jha's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
+![Ritesh Jha's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)  
+
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RiteshJha912&theme=dark)
+
 
 ## 🌐 Languages & Tools
 ![HTML](https://img.shields.io/badge/HTML-5C2D91?style=flat&logo=html5&logoColor=white)
