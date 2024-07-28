@@ -4,7 +4,7 @@
 
 ![Coding GIF](https://i.redd.it/n8agw6z2smyb1.gif)
 
-## 🌟 About Me
+
 🧑‍💻 Visit my Website: [https://about-ritesh.netlify.app/](https://about-ritesh.netlify.app/)
 
 ## 📈 GitHub Stats
