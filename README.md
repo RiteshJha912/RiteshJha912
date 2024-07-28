@@ -2,7 +2,8 @@
 
 # Hello there! I'm Ritesh Jha 👋
 
-![Coding GIF](https://cdn.dribbble.com/users/327237/screenshots/10633676/media/94f4e7c8385f4b4f57ddc84d061550dd.gif)
+![Coding GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
 
 
 ## 🌟 About Me
