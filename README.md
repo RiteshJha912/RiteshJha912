@@ -2,7 +2,8 @@
 
 # Hello there! I'm Ritesh Jha 👋
 
-![Coding GIF](https://media.giphy.com/media/8w9HLlIWl4J78X7DgG/giphy.gif)
+![Coding GIF](https://cdn.dribbble.com/users/327237/screenshots/10633676/media/94f4e7c8385f4b4f57ddc84d061550dd.gif)
+
 
 ## 🌟 About Me
 🧑‍💻 Visit my Website: https://about-ritesh.netlify.app/
