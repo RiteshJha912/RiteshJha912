@@ -1,8 +1,9 @@
 <div align="center">
 
-# Hello there! I'm Ritesh Jha 👋
+# Welcome to my Profile!   I'm Ritesh aka Hazardous☣️
 
-![Software Development GIF](https://media.tenor.com/images/6dbe0982a039f709f8adccdd1d5f9da1/tenor.gif)
+
+![Coding GIF](https://media.giphy.com/media/3o6Zt6J11ab2C1yGXi/giphy.gif)
 
 
 
