@@ -1,9 +1,11 @@
+<div align="center">
+
 # Hello there! I'm Ritesh Jha 👋
 
-![Coding GIF](https://media.giphy.com/media/3o6Zt4H2z42E9tH2Iw/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/8w9HLlIWl4J78X7DgG/giphy.gif)
 
 ## 🌟 About Me
-I'm a **Cybersecurity Analyst** and **Front-end Developer** with a passion for creating secure and interactive web applications. Check out some of my work and stats below!
+🧑‍💻 Visit my Website: https://about-ritesh.netlify.app/
 
 ## 📈 GitHub Stats
 ![Ritesh Jha's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
@@ -22,6 +24,12 @@ I'm a **Cybersecurity Analyst** and **Front-end Developer** with a passion for c
 
 Feel free to explore my repositories and get in touch!
 
+</div>
+
 ---
 
+<div align="center">
+
 [LinkedIn](https://www.linkedin.com/in/ritesh-jha-aa490a286/) | [GitHub](https://github.com/RiteshJha912)
+
+</div>
