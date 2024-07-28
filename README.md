@@ -2,7 +2,8 @@
 
 # Hello there! I'm Ritesh Jha 👋
 
-![Coding GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Software Development GIF](https://media.tenor.com/images/6dbe0982a039f709f8adccdd1d5f9da1/tenor.gif)
+
 
 
 
