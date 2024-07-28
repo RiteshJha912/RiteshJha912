@@ -1,6 +1,6 @@
 # Hello there! I'm Ritesh Jha 👋
 
-![Coding GIF](https://media.giphy.com/media/3o7TKInZWJZkk7nWCo/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/3o6Zt4H2z42E9tH2Iw/giphy.gif)
 
 ## 🌟 About Me
 I'm a **Cybersecurity Analyst** and **Front-end Developer** with a passion for creating secure and interactive web applications. Check out some of my work and stats below!
@@ -16,6 +16,9 @@ I'm a **Cybersecurity Analyst** and **Front-end Developer** with a passion for c
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 Feel free to explore my repositories and get in touch!
 
