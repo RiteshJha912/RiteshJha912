@@ -9,13 +9,6 @@
 
 🧑‍💻 Visit my Website: [https://about-ritesh.netlify.app/](https://about-ritesh.netlify.app/)
 
-## 📈 GitHub Stats
-![Ritesh Jha's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)  
-
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RiteshJha912&theme=dark)
-
-
 ## 🌐 Languages & Tools
 ![HTML](https://img.shields.io/badge/HTML-5C2D91?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-000000?style=flat&logo=css3&logoColor=white)
@@ -32,6 +25,15 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-F76935?style=flat&logo=postman&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+
+## 📈 GitHub Stats
+![Ritesh Jha's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)  
+
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RiteshJha912&theme=dark)
+
+
+
 
 Feel free to explore my repositories and get in touch!
 
