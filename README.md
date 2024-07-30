@@ -26,13 +26,12 @@
 ![Postman](https://img.shields.io/badge/Postman-F76935?style=flat&logo=postman&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
 
-## 📈 GitHub Stats
-![Ritesh Jha's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)  
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RiteshJha912&theme=dark)
 
-
+## 📈 GitHub Stats
+![Ritesh Jha's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)  
 
 
 Feel free to explore my repositories and get in touch!
