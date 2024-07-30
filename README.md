@@ -1,7 +1,8 @@
 <div align="center">
 
-# Welcome to my Profile!       
-## I'm Ritesh aka Hazardous☣️
+# I'm Ritesh aka Hazardous☣️
+## Welcome to my Profile!       
+
 
 ![Coding GIF](https://i.redd.it/n8agw6z2smyb1.gif)
 
