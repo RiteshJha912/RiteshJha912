@@ -3,7 +3,7 @@
 # I'm Ritesh aka Hazardous☣️
 ## Welcome to my Profile!       
 
-![Coding GIF](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F1d11s820dgm91.gif)
+![Coding GIF](https://i.redd.it/1d11s820dgm91.gif)
 
 🧑‍💻 Visit my Website: [https://about-ritesh.netlify.app/](https://about-ritesh.netlify.app/)
 
