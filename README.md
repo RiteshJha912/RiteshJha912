@@ -1,7 +1,7 @@
 <div align="center">
 
 # I'm Ritesh aka Hazardous☣️
-## Welcome to my Profile!       
+## Welcome to my Github Profile!       
 
 ![Coding GIF](https://i.redd.it/n8agw6z2smyb1.gif)
 
