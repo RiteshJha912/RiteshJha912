@@ -1,7 +1,7 @@
 <div align="center">
 
-# I'm Ritesh a.k.a.   
-Hazardous☣️
+## I'm Ritesh a.k.a.   
+# Hazardous☣️
       
 
 ![Coding GIF](https://i.redd.it/n8agw6z2smyb1.gif)
