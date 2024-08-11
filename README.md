@@ -1,6 +1,7 @@
 <div align="center">
 
-## Ritesh  ☣️Hazardous☣️
+## Ritesh  
+### ☣️Hazardous☣️
       
 
 ![Coding GIF](https://i.redd.it/n8agw6z2smyb1.gif)
