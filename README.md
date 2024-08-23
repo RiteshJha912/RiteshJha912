@@ -1,8 +1,9 @@
 <div align="center">
 
-## Ritesh  
+# Hi, I am Ritesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
 ### ☣️ Hazardous ☣️
-  
+
 ![Coding GIF](https://i.redd.it/n8agw6z2smyb1.gif)
 
 🧑‍💻 **Visit my Website:** [https://about-ritesh.netlify.app/](https://about-ritesh.netlify.app/)
@@ -36,12 +37,18 @@
 
 ---
 
-
 ## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RiteshJha912&theme=dark)
 
 ## 📈 GitHub Stats
-![Ritesh Jha's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)  
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark" alt="Ritesh Jha's GitHub stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshJha912&layout=compact&theme=dark" alt="Top Languages" />
+</div>
+<div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RiteshJha912&theme=vue-dark" alt="Profile Details" />
+    <img src="https://github-profile-trophy.vercel.app/?username=RiteshJha912&theme=onedark" alt="Trophies" />
+</div>
 
 ---
 
@@ -50,3 +57,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RiteshJha912)
 
 </div>
+
