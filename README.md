@@ -45,10 +45,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark" alt="Ritesh Jha's GitHub stats" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshJha912&layout=compact&theme=dark" alt="Top Languages" />
 </div>
-<div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RiteshJha912&theme=vue-dark" alt="Profile Details" />
-    <img src="https://github-profile-trophy.vercel.app/?username=RiteshJha912&theme=onedark" alt="Trophies" />
-</div>
 
 ---
 
