@@ -2,13 +2,13 @@
 
 # Hi, I'm Ritesh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-### 🌟 Welcome to my Coding World! 🌟
+### ☣️ Hazardous ☣️
 
 <img src="https://i.redd.it/n8agw6z2smyb1.gif" width="650px" alt="Coding GIF" />
 
 ---
 
-## 🚀 Explore My Skills
+## 🛠️ My Skills 🛠️
 
 ### 🌐 Languages & Tools
 
@@ -38,7 +38,7 @@
 
 ---
 
-## 📈 My GitHub Stats
+## 📈 My GitHub Stats 📊
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" alt="Ritesh Jha's GitHub stats" />
@@ -47,7 +47,7 @@
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let's Connect! 📫
 
 <div>
     <a href="https://www.linkedin.com/in/ritesh-jha-aa490a286/" target="_blank">
