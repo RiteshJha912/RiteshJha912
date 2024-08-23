@@ -44,7 +44,6 @@
 ## 📈 GitHub Stats
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark" alt="Ritesh Jha's GitHub stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshJha912&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 ---
