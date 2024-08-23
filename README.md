@@ -2,7 +2,7 @@
 
 # Hi, I am Ritesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Biohazard_symbol_%28black_and_yellow%29.png/600px-Biohazard_symbol_%28black_and_yellow%29.png" width="30px" height="30px"/> Hazardous <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Biohazard_symbol_%28black_and_yellow%29.png/600px-Biohazard_symbol_%28black_and_yellow%29.png" width="30px" height="30px"/>
+### ☣️ Hazardous ☣️
 
 ![Coding GIF](https://i.redd.it/n8agw6z2smyb1.gif)
 
@@ -44,10 +44,6 @@
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark" alt="Ritesh Jha's GitHub stats" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshJha912&layout=compact&theme=dark" alt="Top Languages" />
-</div>
-<div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RiteshJha912&theme=vue-dark" alt="Profile Details" />
-    <img src="https://github-profile-trophy.vercel.app/?username=RiteshJha912&theme=onedark" alt="Trophies" />
 </div>
 
 ---
