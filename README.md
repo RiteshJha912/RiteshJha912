@@ -2,7 +2,7 @@
 
 # Hi, I am Ritesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-### ☣️ Hazardous ☣️
+### <img src="https://img.icons8.com/emoji/48/hazard-sign-emoji.png" width="30px" height="30px" style="animation: spin 3s linear infinite;"/> Hazardous <img src="https://img.icons8.com/emoji/48/hazard-sign-emoji.png" width="30px" height="30px" style="animation: spin 3s linear infinite;"/>
 
 ![Coding GIF](https://i.redd.it/n8agw6z2smyb1.gif)
 
@@ -54,3 +54,9 @@
 
 </div>
 
+<style>
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+</style>
