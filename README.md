@@ -2,7 +2,7 @@
 
 # Hi, I am Ritesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-### <img src="https://img.icons8.com/emoji/48/hazard-sign-emoji.png" width="30px" height="30px" style="animation: spin 3s linear infinite;"/> Hazardous <img src="https://img.icons8.com/emoji/48/hazard-sign-emoji.png" width="30px" height="30px" style="animation: spin 3s linear infinite;"/>
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Biohazard_symbol_%28black_and_yellow%29.png/600px-Biohazard_symbol_%28black_and_yellow%29.png" width="30px" height="30px"/> Hazardous <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Biohazard_symbol_%28black_and_yellow%29.png/600px-Biohazard_symbol_%28black_and_yellow%29.png" width="30px" height="30px"/>
 
 ![Coding GIF](https://i.redd.it/n8agw6z2smyb1.gif)
 
@@ -57,10 +57,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RiteshJha912)
 
 </div>
-
-<style>
-@keyframes spin {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
-}
-</style>
