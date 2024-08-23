@@ -41,8 +41,8 @@
 ## 📈 My GitHub Stats 📊
 
 <div>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshJha912&theme=radical" alt="GitHub Streak" />     
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" alt="Ritesh Jha's GitHub stats" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshJha912&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
