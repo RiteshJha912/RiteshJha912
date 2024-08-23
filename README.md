@@ -1,17 +1,17 @@
 <div align="center">
 
-# Hi, I am Ritesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hi, I'm Ritesh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-### ☣️ Hazardous ☣️
+### 🌟 Welcome to my Coding World! 🌟
 
-<img src="https://i.redd.it/n8agw6z2smyb1.gif" width="650px" alt="Coding GIF" />
-
-
-🧑‍💻 **Visit my Website:** [https://about-ritesh.netlify.app/](https://about-ritesh.netlify.app/)
+<img src="https://i.giphy.com/media/l0HlQp3w7hMPO0n8I/giphy.gif" width="650px" alt="Coding GIF" />
 
 ---
 
-## 🌐 Languages & Tools
+## 🚀 Explore My Skills
+
+### 🌐 Languages & Tools
+
 <div>
     <img src="https://img.shields.io/badge/HTML-5C2D91?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white" />
@@ -38,18 +38,24 @@
 
 ---
 
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RiteshJha912&theme=dark)
+## 📈 My GitHub Stats
 
-## 📈 GitHub Stats
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark" alt="Ritesh Jha's GitHub stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" alt="Ritesh Jha's GitHub stats" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshJha912&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-jha-aa490a286/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RiteshJha912)
+## 📫 Let's Connect!
+
+<div>
+    <a href="https://www.linkedin.com/in/ritesh-jha-aa490a286/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/RiteshJha912" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+</div>
 
 </div>
