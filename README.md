@@ -36,19 +36,12 @@
 
 ---
 
-## 📊 Language Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshJha912&layout=compact&theme=dark)
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RiteshJha912&theme=dark)
 
 ## 📈 GitHub Stats
 ![Ritesh Jha's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)  
-
----
-
-## 🧑‍💻 Profile Visitors
-![Visitor Count](https://komarev.com/ghpvc/?username=RiteshJha912&color=blue&style=flat-square)
 
 ---
 
