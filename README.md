@@ -4,7 +4,8 @@
 
 ### ☣️ Hazardous ☣️
 
-![Coding GIF](https://i.redd.it/n8agw6z2smyb1.gif)
+<img src="https://i.redd.it/n8agw6z2smyb1.gif" width="200px" alt="Coding GIF" />
+
 
 🧑‍💻 **Visit my Website:** [https://about-ritesh.netlify.app/](https://about-ritesh.netlify.app/)
 
