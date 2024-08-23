@@ -4,7 +4,7 @@
 
 ### 🌟 Welcome to my Coding World! 🌟
 
-<img src="https://i.giphy.com/media/l0HlQp3w7hMPO0n8I/giphy.gif" width="650px" alt="Coding GIF" />
+<img src="https://i.redd.it/n8agw6z2smyb1.gif" width="650px" alt="Coding GIF" />
 
 ---
 
