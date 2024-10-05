@@ -6,7 +6,7 @@
 
 ---
 
-## Tech Stack 🦾
+## Tech Stack 
 
 <div>
     <img src="https://img.shields.io/badge/HTML-5C2D91?style=for-the-badge&logo=html5&logoColor=white" />
