@@ -6,7 +6,7 @@
 
 ---
 
-## 💻 Tech Stack 🦾
+## Tech Stack 🦾
 
 <div>
     <img src="https://img.shields.io/badge/HTML-5C2D91?style=for-the-badge&logo=html5&logoColor=white" />
@@ -34,7 +34,7 @@
 
 ---
 
-## 📈 My GitHub Stats 📊
+## Stats
 
 <div>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshJha912&theme=radical" alt="GitHub Streak" />     
@@ -43,7 +43,7 @@
 
 ---
 
-## 📫 Let's Connect! 📫
+## Connect With Me 
 
 <div>
     <a href="https://www.linkedin.com/in/ritesh-jha-aa490a286/" target="_blank">
