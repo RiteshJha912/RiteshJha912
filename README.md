@@ -55,17 +55,3 @@ I'm a dedicated **Full-Stack Developer** passionate about building impactful pro
 
 ---
 
-### 🎉 Fun Facts About Me
-- 🌱 Currently learning **TypeScript** and **GraphQL** to level up my stack.
-- 🚀 Always open to collaborating on **Open Source Projects**.
-- 📚 Fun Hobby: **Exploring Machine Learning and AI** for the future of tech!
-
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
-</p>
-
----
-
-### 🙏 Thank You for Stopping By!
-If you're interested in collaboration or just want to connect, feel free to reach out!
-
