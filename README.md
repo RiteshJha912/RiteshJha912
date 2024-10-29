@@ -1,41 +1,56 @@
-# 👋 Hello, I'm Ritesh Jha
+# Hey there, I'm Ritesh Jha 👨‍💻
 
-## About Me
-I'm a passionate full-stack developer with a love for problem-solving and building efficient, scalable applications. With a foundation in **web development** and **backend services**, I continuously strive to improve my skills and contribute to impactful projects.
+I'm a **full-stack developer** with experience in front-end, back-end, and database technologies. My interests range from building responsive web applications to exploring algorithms and system architecture.
 
 ---
 
-### 📫 Contact Me
+## 🌐 Social Profiles
+
+- **LinkedIn**: [riteshjha912](https://www.linkedin.com/in/riteshjha912/)
+- **GitHub**: [RiteshJha912](https://github.com/RiteshJha912)
+- **Portfolio**: [about-ritesh.netlify.app](https://about-ritesh.netlify.app/)
+- **Competitive Coding**: 
+  - [CodeChef](https://www.codechef.com/users/ritesh_jha_9)
+  - [HackerRank](https://www.hackerrank.com/profile/riteshjha2174)
+
+### 📧 Contact
 - **Email**: [riteshjha2174@gmail.com](mailto:riteshjha2174@gmail.com)
 - **WhatsApp**: +91 8433517682
 
-### 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/riteshjha912/)
-- [GitHub](https://github.com/RiteshJha912)
-- [Portfolio Website](https://about-ritesh.netlify.app/)
-- [CodeChef](https://www.codechef.com/users/ritesh_jha_9)
-- [HackerRank](https://www.hackerrank.com/profile/riteshjha2174)
-
 ---
 
-### 🛠️ Technical Skills
+## ⚙️ Skills & Technologies
 
-**Languages and Frameworks**
-- **Frontend**: HTML, CSS, JavaScript, ReactJS, PugJS
-- **Backend**: NodeJS, ExpressJS, Flask
+### Frontend
+- **Languages**: HTML, CSS, JavaScript
+- **Libraries/Frameworks**: ReactJS, PugJS
+
+### Backend
+- **Frameworks**: NodeJS, ExpressJS, Flask
+- **APIs**: RestAPI, Postman
+
+### Databases
 - **Databases**: MongoDB, Firebase, MySQL
-- **Programming Languages**: C++, C, Python, Java
 
-**Tools**
-- Postman, Git & GitHub, RestAPI, Kali Linux
+### Programming
+- **Languages**: C++, C, Python, Java
 
----
-
-### 📊 GitHub Stats
-![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshJha912&layout=compact&theme=radical)
+### DevOps & Tools
+- **Tools**: Git-GitHub, Kali Linux
 
 ---
 
-Thanks for stopping by! Feel free to reach out or connect if you're interested in collaborating or learning more.
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshJha912&layout=compact&theme=dark)
+
+#### **Unique Stats:**
+- **Repositories Count**: [![Repos](https://img.shields.io/github/repos/RiteshJha912?color=blue)](https://github.com/RiteshJha912?tab=repositories)
+- **Total Commits**: [![Commits](https://img.shields.io/github/commit-activity/y/RiteshJha912)](https://github.com/RiteshJha912)
+
+---
+
+🔗 **Thank you for visiting my profile! Let's connect and make great projects together.**
+
 
