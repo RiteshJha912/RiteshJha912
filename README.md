@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 About Me
 
-I am a **Full-Stack Developer** and **Cybersecurity Analyst** with a strong foundation in **network security**, **OSINT**, and **web development**. Currently pursuing a B.Tech in IT with a specialization in Cybersecurity, I work with DeepCytes Cyber Labs in OSINT, specializing in **dark web analysis** and **cybersecurity research**. Whether building secure, scalable applications or safeguarding systems, I’m dedicated to creating impactful solutions. I am also available for **freelance projects**—let’s connect to discuss how we can collaborate!
+I am a **Full-Stack Developer** and **Cybersecurity Analyst** with a strong foundation in **network security**, **OSINT**, and **web development**. Currently pursuing a B.Tech in IT with a specialization in Cybersecurity. I am also available for **freelance projects**—let’s connect to discuss how we can collaborate!
 
 ---
 
