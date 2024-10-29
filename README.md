@@ -8,13 +8,15 @@
 
 ---
 
-###  About Me
+<h2 align="center">About Me</h2>
 
-I am a **Full-Stack Developer** & **Cybersecurity Analyst** with a strong foundation in **network security**, **OSINT** & **web development**. Currently pursuing a B.Tech in IT with a specialization in Cybersecurity. I am also available for **freelance projects**—let’s connect to discuss how we can collaborate!
+<p align="center">
+  I am a **Full-Stack Developer** & **Cybersecurity Analyst** with a strong foundation in **network security**, **OSINT** & **web development**. Currently pursuing a B.Tech in IT with a specialization in Cybersecurity. I am also available for **freelance projects**—let’s connect to discuss how we can collaborate!
+</p>
 
 ---
 
-###  Socials
+<h2 align="center">Socials</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/ritesh-jha-aa490a286/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/RiteshJha912"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -25,7 +27,7 @@ I am a **Full-Stack Developer** & **Cybersecurity Analyst** with a strong founda
 
 ---
 
-###  My Tech Stack
+<h2 align="center">My Tech Stack</h2>
 
 <div align="center" style="background-color: #1E1E1E; border-radius: 10px; padding: 20px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);">
 <table width="100%">
@@ -68,7 +70,7 @@ I am a **Full-Stack Developer** & **Cybersecurity Analyst** with a strong founda
 
 ---
 
-###  GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&theme=tokyonight" alt="Ritesh's GitHub Stats">
@@ -77,26 +79,25 @@ I am a **Full-Stack Developer** & **Cybersecurity Analyst** with a strong founda
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshJha912&theme=tokyonight" alt="GitHub Streak">
 </p>
 
-
 ---
 
-### 💼 Open for Freelance Opportunities!
+<h2 align="center">💼 Open for Freelance Opportunities!</h2>
 <p align="center">
-I am available for freelance projects that involve web development & cybersecurity.  
+  I am available for freelance projects that involve web development & cybersecurity.  
 </p>
 <p align="center">
   <a href="mailto:riteshjha2174@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://wa.me/918433517682"><img src="https://img.shields.io/badge/WhatsApp-%25C34D1D.svg?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
+
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/j2ZfNKkqz9HgEMOUJj/giphy.gif" alt="Exciting outro GIF" width="300">
+  <img src="https://media.giphy.com/media/fAnEC88LccN7s/giphy.gif" alt="Creative outro GIF" width="300">
 </p>
 <p align="center">
-Thank you for stopping by! 😊    
+  Thank you for stopping by! 😊    
 </p>
-
 
 ---
 
@@ -106,3 +107,4 @@ Thank you for stopping by! 😊
 </p>
 
 ---
+
