@@ -28,30 +28,33 @@
 </p>
 
 ---
-<h2 align="center" style="color: #6a0dad;"> My Tech Stack</h2>
+<h2 align="center" style="color: #6a0dad;">My Tech Stack</h2>
 
 <div align="center">
   <table style="border-collapse: collapse; width: 90%; max-width: 800px;">
     <tr>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="80"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="80"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="80"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="80"/>
+      </td>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pug/pug-original.svg" alt="PugJS" width="80"/>
       </td>
     </tr>
     <tr>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="80"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="80"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="ExpressJS" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="80"/>
@@ -59,11 +62,11 @@
       <td style="padding: 20px; text-align: center;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="80"/>
       </td>
-    </tr>
-    <tr>
       <td style="padding: 20px; text-align: center;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="80"/>
       </td>
+    </tr>
+    <tr>
       <td style="padding: 20px; text-align: center;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="80"/>
       </td>
@@ -71,25 +74,35 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="80"/>
+      </td>
+      <td style="padding: 20px; text-align: center;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80"/>
+      </td>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="80"/>
       </td>
     </tr>
     <tr>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="80"/>
-      </td>
-      <td style="padding: 20px; text-align: center;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/linux-original.svg" alt="Kali Linux" width="80"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="OSINT" width="80"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="80"/>
+      </td>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg" alt="Kali Linux" width="80"/>
+      </td>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/restapi/restapi-original.svg" alt="RestAPI" width="80"/>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 
