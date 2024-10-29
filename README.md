@@ -28,7 +28,7 @@
 </p>
 
 ---
-<h2 align="center" style="color: #6a0dad;">🛠️ My Tech Stack</h2>
+<h2 align="center" style="color: #6a0dad;">My Tech Stack</h2>
 
 <div align="center">
   <table style="border-collapse: collapse; width: 90%; max-width: 800px;">
@@ -46,7 +46,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pug/pug-original.svg" alt="PugJS" width="80"/>
+        <img src="https://pugjs.org/logo.svg" alt="PugJS" width="80"/>
       </td>
     </tr>
     <tr>
@@ -94,10 +94,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg" alt="Kali Linux" width="80"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Kali_Linux_Logo.svg" alt="Kali Linux" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/RESTful_API_Icon.svg/1200px-RESTful_API_Icon.svg.png" alt="REST API" width="80"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/RESTful_API_Logo.svg" alt="REST API" width="80"/>
       </td>
     </tr>
   </table>
