@@ -77,9 +77,6 @@ I am a **Full-Stack Developer** and **Cybersecurity Analyst** with a strong foun
 <p align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshJha912&theme=tokyonight" alt="GitHub Streak">
 </p>
-<p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshJha912&layout=compact&theme=tokyonight" alt="Most Used Languages">
-</p>
 
 ---
 
@@ -87,7 +84,6 @@ I am a **Full-Stack Developer** and **Cybersecurity Analyst** with a strong foun
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RiteshJha912&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views">
-  <img src="https://img.shields.io/badge/Total%20Repositories-8+-blueviolet?style=for-the-badge" alt="Repositories">
   <img src="https://img.shields.io/github/followers/RiteshJha912?color=36BCF7&label=Followers&style=for-the-badge" alt="GitHub Followers">
 </p>
 
