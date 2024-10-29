@@ -28,80 +28,64 @@
 </p>
 
 ---
-<h2 align="center" style="color: #6a0dad;">🛠️ My Tech Stack</h2>
+<h2 align="center" style="color: #6a0dad;"> My Tech Stack</h2>
 
 <div align="center">
   <table style="border-collapse: collapse; width: 90%; max-width: 800px;">
     <tr>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white" alt="HTML5" width="80"/>
-        <br><strong>HTML5</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white" alt="CSS3" width="80"/>
-        <br><strong>CSS3</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" width="80"/>
-        <br><strong>JavaScript</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://img.shields.io/badge/ReactJS-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black" alt="React" width="80"/>
-        <br><strong>ReactJS</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="80"/>
       </td>
     </tr>
     <tr>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://img.shields.io/badge/NodeJS-%23339933.svg?&style=flat-square&logo=node.js&logoColor=white" alt="Node.js" width="80"/>
-        <br><strong>Node.js</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://img.shields.io/badge/ExpressJS-%23000000.svg?&style=flat-square&logo=express&logoColor=white" alt="Express.js" width="80"/>
-        <br><strong>Express.js</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://img.shields.io/badge/Flask-%23000000.svg?&style=flat-square&logo=flask&logoColor=white" alt="Flask" width="80"/>
-        <br><strong>Flask</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" width="80"/>
-        <br><strong>MongoDB</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="80"/>
       </td>
     </tr>
     <tr>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?&style=flat-square&logo=firebase&logoColor=black" alt="Firebase" width="80"/>
-        <br><strong>Firebase</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=flat-square&logo=mysql&logoColor=white" alt="MySQL" width="80"/>
-        <br><strong>MySQL</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" width="80"/>
-        <br><strong>C++</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python" width="80"/>
-        <br><strong>Python</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80"/>
       </td>
     </tr>
     <tr>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://img.shields.io/badge/Java-%23007396.svg?&style=flat-square&logo=java&logoColor=white" alt="Java" width="80"/>
-        <br><strong>Java</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=flat-square&logo=postman&logoColor=white" alt="Postman" width="80"/>
-        <br><strong>Postman</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://img.shields.io/badge/Kali_Linux-%23557C94.svg?&style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" width="80"/>
-        <br><strong>Kali Linux</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/linux-original.svg" alt="Kali Linux" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://img.shields.io/badge/OSINT-%2368A4FF.svg?&style=flat-square&logo=intel&logoColor=white" alt="OSINT" width="80"/>
-        <br><strong>OSINT</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="OSINT" width="80"/>
       </td>
     </tr>
   </table>
