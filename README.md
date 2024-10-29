@@ -80,7 +80,6 @@ I am a **Full-Stack Developer** & **Cybersecurity Analyst** with a strong founda
 
 ---
 
-### 📈 Unique Stats
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RiteshJha912&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views">
