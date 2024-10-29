@@ -8,25 +8,24 @@
 
 ---
 
-### 🧑‍💻 About Me
+###  About Me
 
 I am a **Full-Stack Developer** & **Cybersecurity Analyst** with a strong foundation in **network security**, **OSINT** & **web development**. Currently pursuing a B.Tech in IT with a specialization in Cybersecurity. I am also available for **freelance projects**—let’s connect to discuss how we can collaborate!
 
 ---
 
-### 📫 Contact Me
+###  Socials
 <p align="center">
   <a href="https://www.linkedin.com/in/ritesh-jha-aa490a286/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/RiteshJha912"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://about-ritesh.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%2368A4FF.svg?style=for-the-badge&logo=react&logoColor=white"></a>
   <a href="https://www.codechef.com/users/ritesh_jha_9"><img src="https://img.shields.io/badge/CodeChef-%23B92B27.svg?style=for-the-badge&logo=codechef&logoColor=white"></a>
   <a href="https://www.hackerrank.com/profile/riteshjha2174"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
-  <a href="https://wa.me/918433517682"><img src="https://img.shields.io/badge/WhatsApp-%25C34D1D.svg?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
 
 ---
 
-### 🛠️ My Tech Stack
+###  My Tech Stack
 
 <div align="center" style="background-color: #1E1E1E; border-radius: 10px; padding: 20px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);">
 <table width="100%">
@@ -69,7 +68,7 @@ I am a **Full-Stack Developer** & **Cybersecurity Analyst** with a strong founda
 
 ---
 
-### 🚀 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&theme=tokyonight" alt="Ritesh's GitHub Stats">
@@ -88,9 +87,12 @@ I am a **Full-Stack Developer** & **Cybersecurity Analyst** with a strong founda
 ---
 
 ### 💼 Open for Freelance Opportunities!
-I am available for freelance projects that involve web development & cybersecurity.   
-  <a href="mailto:riteshjha2174@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<p align="center">
+I am available for freelance projects that involve web development & cybersecurity.    
 
+  <a href="mailto:riteshjha2174@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://wa.me/918433517682"><img src="https://img.shields.io/badge/WhatsApp-%25C34D1D.svg?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</p>
 ---
 
 <p align="center">
