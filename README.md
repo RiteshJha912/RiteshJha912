@@ -109,12 +109,10 @@
 
 <h2 align="center" style="color: #5C4B8A;">GitHub Stats</h2>
 
-<p align="center">
-  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshJha912&theme=tokyonight" alt="GitHub Streak" style="max-width: 400px;">
-</p>
-<p align="center">
-  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&theme=tokyonight" alt="Ritesh's GitHub Stats" style="max-width: 400px;">
-</p>
+<div>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshJha912&theme=radical" alt="GitHub Streak" />     
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" alt="Ritesh Jha's GitHub stats" />
+</div>
 
 ---
 
