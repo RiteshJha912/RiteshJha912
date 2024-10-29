@@ -88,8 +88,9 @@ I am a **Full-Stack Developer** & **Cybersecurity Analyst** with a strong founda
 
 ### 💼 Open for Freelance Opportunities!
 <p align="center">
-I am available for freelance projects that involve web development & cybersecurity.    
-
+I am available for freelance projects that involve web development & cybersecurity.  
+</p>
+<p align="center">
   <a href="mailto:riteshjha2174@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://wa.me/918433517682"><img src="https://img.shields.io/badge/WhatsApp-%25C34D1D.svg?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
