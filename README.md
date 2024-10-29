@@ -84,7 +84,7 @@
 
 ---
 
-<h2 align="center">💼 Open for Freelance Opportunities!</h2>
+<h2 align="center">💼 Open for Freelance Opportunities! 💼</h2>
 <p align="center">
   I am available for freelance projects that involve web development & cybersecurity.  
 </p>
@@ -96,7 +96,7 @@
 ---
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/t7vEUH4655MAAAAC/youre-doing-great-much-respect.gif" alt="Creative outro GIF" width="250">
+  <img src="https://media1.tenor.com/m/t7vEUH4655MAAAAC/youre-doing-great-much-respect.gif" alt="Creative outro GIF" width="200">
 </p>
 
 <p align="center">
