@@ -3,22 +3,23 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%2336BCF7&size=28&center=true&vCenter=true&width=450&lines=Developer+and+Tech+Enthu;Open+Source+Contributor;Problem+Solver+and+Coder" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%2336BCF7&size=28&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+%7C+Cybersecurity+Analyst;Open+Source+Contributor;Freelancer+for+Hire;Problem+Solver+and+Coder" alt="Typing SVG">
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
-I'm a dedicated **Full-Stack Developer** passionate about building impactful projects and solving complex coding challenges. With a diverse skill set in **frontend, backend, and databases**, I’m committed to continuous learning and growth in the tech world.
+
+I am a **Full-Stack Developer** and **Cybersecurity Analyst** with a strong foundation in **network security**, **OSINT**, and **web development**. Currently pursuing a B.Tech in IT with a specialization in Cybersecurity, I work with DeepCytes Cyber Labs in OSINT, specializing in **dark web analysis** and **cybersecurity research**. Whether building secure, scalable applications or safeguarding systems, I’m dedicated to creating impactful solutions. I am also available for **freelance projects**—let’s connect to discuss how we can collaborate!
 
 ---
 
 ### 📫 Contact Me
 <p align="center">
   <a href="mailto:riteshjha2174@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/riteshjha912/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ritesh-jha-aa490a286/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/RiteshJha912"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://about-ritesh.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%230A0A0A.svg?style=for-the-badge&logo=wordpress&logoColor=white"></a>
+  <a href="https://about-ritesh.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%2336BCF7.svg?style=for-the-badge&logo=react&logoColor=white"></a>
   <a href="https://www.codechef.com/users/ritesh_jha_9"><img src="https://img.shields.io/badge/CodeChef-%23B92B27.svg?style=for-the-badge&logo=codechef&logoColor=white"></a>
   <a href="https://www.hackerrank.com/profile/riteshjha2174"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
 </p>
@@ -27,31 +28,86 @@ I'm a dedicated **Full-Stack Developer** passionate about building impactful pro
 
 ### 🛠️ My Tech Stack
 
-| **Category**   | **Technologies**                                                                                                                                                                                                                                                                                                      |
-|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Frontend**   | <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/ReactJS-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/PugJS-%23A86454.svg?&style=flat-square&logo=pug&logoColor=white"/> |
-| **Backend**    | <img src="https://img.shields.io/badge/NodeJS-%23339933.svg?&style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/ExpressJS-%23000000.svg?&style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-%23000000.svg?&style=flat-square&logo=flask&logoColor=white"/> |
-| **Databases**  | <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?&style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=flat-square&logo=mysql&logoColor=white"/> |
-| **Languages**  | <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?&style=flat-square&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-%23007396.svg?&style=flat-square&logo=java&logoColor=white"/> |
-| **Tools**      | <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Git-%23F05033.svg?&style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Kali_Linux-%23557C94.svg?&style=flat-square&logo=kalilinux&logoColor=white"/> |
+<div align="center">
+<table width="100%">
+<tr>
+  <td align="center" width="100%">
+    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/ReactJS-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PugJS-%23A86454.svg?&style=for-the-badge&logo=pug&logoColor=white"/>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="100%">
+    <img src="https://img.shields.io/badge/NodeJS-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ExpressJS-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Flask-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black"/>
+    <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="100%">
+    <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="100%">
+    <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kali_Linux-%23557C94.svg?&style=for-the-badge&logo=kalilinux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OSINT-%2336BCF7.svg?&style=for-the-badge&logo=intel&logoColor=white"/>
+  </td>
+</tr>
+</table>
+</div>
 
 ---
 
 ### 🚀 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&theme=tokyonight" alt="Ritesh's GitHub Stats">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshJha912&layout=compact&theme=tokyonight" alt="Most Used Languages">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&theme=tokyonight" alt="Ritesh's GitHub Stats">
+</p>
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshJha912&theme=tokyonight" alt="GitHub Streak">
+</p>
+<p align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshJha912&layout=compact&theme=tokyonight" alt="Most Used Languages">
 </p>
 
 ---
 
 ### 📈 Unique Stats
-| 📊 **Stat Type**           | 🔥 **Metric** |
-|----------------------------|---------------|
-| **Total Commits**          | ![Commits](https://img.shields.io/github/commit-activity/y/RiteshJha912?label=Yearly%20Commits&style=flat-square) |
-| **Repositories**           | ![Repos](https://img.shields.io/github/repo-count/RiteshJha912?label=Total%20Repos&color=purple&style=flat-square) |
-| **Code Review Contributions** | ![Contributions](https://img.shields.io/github/contributors/RiteshJha912?label=Total%20Contributors&color=brightgreen&style=flat-square) |
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RiteshJha912&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views">
+  <img src="https://img.shields.io/badge/Total%20Repositories-8+-blueviolet?style=for-the-badge" alt="Repositories">
+  <img src="https://img.shields.io/github/followers/RiteshJha912?color=36BCF7&label=Followers&style=for-the-badge" alt="GitHub Followers">
+</p>
 
 ---
 
+### 🔐 Cybersecurity Expertise
+With hands-on experience in **network security**, **dark web research**, and **incident analysis** using frameworks like **NIST**, I have a strong background in cybersecurity. I specialize in:
+- **OSINT** (Open Source Intelligence)
+- **Threat detection and vulnerability assessment**
+- **Penetration testing** and **network monitoring**
+  
+🌐 Let's collaborate on securing and enhancing the digital world!
+
+---
+
+### 💼 Open for Freelance Opportunities!
+<p align="center">
+I am available for freelance projects that involve **web development**, **cybersecurity**, and **OSINT**. If you’re looking to build secure, scalable applications or need expert cybersecurity insights, let’s connect!
+</p>
+
+--- 
+
+Thank you for stopping by! 😊 Connect with me on my social links above or reach out if you're interested in collaborating.
