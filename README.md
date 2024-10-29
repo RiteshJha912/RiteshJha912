@@ -91,13 +91,13 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="80"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Kali_Linux_Logo.svg" alt="Kali Linux" width="80"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Kali_Linux_Logo.svg" alt="Kali Linux" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/RESTful_API_Logo.svg" alt="REST API" width="80"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/REST_API_Logo.png" alt="REST API" width="80"/>
       </td>
     </tr>
   </table>
