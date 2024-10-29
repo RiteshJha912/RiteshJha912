@@ -98,7 +98,7 @@ I am available for freelance projects that involve web development & cybersecuri
 
 <p align="center">
   <img src="https://media.giphy.com/media/j2ZfNKkqz9HgEMOUJj/giphy.gif" alt="Exciting outro GIF" width="300">
-</p>
+
 
 Thank you for stopping by! 😊    
-
+</p>
