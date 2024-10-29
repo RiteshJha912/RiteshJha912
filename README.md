@@ -11,7 +11,9 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  I am a **Full-Stack Developer** & **Cybersecurity Analyst** with a strong foundation in **network security**, **OSINT** & **web development**. Currently pursuing a B.Tech in IT with a specialization in Cybersecurity. I am also available for **freelance projects**—let’s connect to discuss how we can collaborate!
+  I am a Full-Stack Developer & Cybersecurity Analyst with a strong foundation in network security, OSINT & website development.    
+  Currently pursuing a B.Tech in IT with a specialization in Cybersecurity. 
+  I am also available for freelance projects—let’s connect to discuss how we can collaborate!
 </p>
 
 ---
