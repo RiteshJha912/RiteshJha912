@@ -95,7 +95,7 @@
 ---
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/t7vEUH4655MAAAAC/youre-doing-great-much-respect.gif" alt="Creative outro GIF" width="300">
+  <img src="https://media1.tenor.com/m/t7vEUH4655MAAAAC/youre-doing-great-much-respect.gif" alt="Creative outro GIF" width="250">
 </p>
 
 <p align="center">
