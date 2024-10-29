@@ -46,7 +46,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://miro.medium.com/v2/resize:fit:1200/1*NYc2gkB3N1FcA8eSkU1J-Q.png" alt="PugJS" width="80"/>
+        <img src="https://pugjs.org/logo.svg" alt="PugJS" width="80"/>
       </td>
     </tr>
     <tr>
@@ -91,17 +91,18 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="80"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Kali_Linux_Logo.svg" alt="Kali Linux" width="80"/>
+        <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://www.digitalocean.com/_next/image?url=%2Fcommunity%2Fphotos%2F8dc3d76d-81a8-41ff-86f2-0224ae369fd4%2Fdownload%2F3fdcbe92a2ed92a687504a7c53e7cc5e%2Frest-api.svg&w=640&q=75" alt="REST API" width="80"/>
+        <img src="https://cdn.iconscout.com/icon/free/png-256/rest-api-2043067-1729911.png" alt="REST API" width="80"/>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 ---
