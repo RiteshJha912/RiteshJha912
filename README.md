@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%23668A4F&size=28&center=true&vCenter=true&width=550&lines=Developer+%7C+Cybersecurity+Analyst;Open+Source+Contributor;Freelancer+for+Hire;Problem+Solver+and+Coder" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%2368A4FF&size=28&center=true&vCenter=true&width=550&lines=Developer+%7C+Cybersecurity+Analyst;Open+Source+Contributor;Freelancer+for+Hire;Problem+Solver+and+Coder" alt="Typing SVG">
 </p>
 
 ---
@@ -29,31 +29,37 @@
 
 ---
 
-<h2 align="center" style="color: #5C4B8A;">My Tech Stack</h2>
+<h2 align="center" style="color: #6a0dad;">My Tech Stack</h2>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/ReactJS-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/PugJS-%23A86454.svg?&style=for-the-badge&logo=pug&logoColor=white" />
-  
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/NodeJS-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/ExpressJS-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
-  
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
-  
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali_Linux-%23557C94.svg?&style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/OSINT-%23668A4F.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-</div>
+  <img src="https://img.shields.io/badge/OSINT-%2368A4FF.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+</p>
 
 ---
 
