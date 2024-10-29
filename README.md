@@ -101,5 +101,4 @@ I am available for freelance projects that involve web development & cybersecuri
 </p>
 
 Thank you for stopping by! 😊    
-Connect with me on my social links above or reach out if you're interested in collaborating.
 
