@@ -97,7 +97,7 @@
         <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://banner2.cleanpng.com/20180821/px/17f16be5a391995fd119f726c0b508d6.webp" alt="REST API" width="80"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/2164/2164832.png" alt="REST API" width="80"/>
       </td>
     </tr>
   </table>
