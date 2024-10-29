@@ -95,7 +95,7 @@
 ---
 
 <p align="center">
-  <img src="[ZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/apZu4Fb7op1XWdNRok/giphy.webp)](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzU3dW4zc2o4em5sM2h2dHJud2J5c3NwcThoNTVxMW1uZTlkZjZ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/apZu4Fb7op1XWdNRok/giphy.gif)" alt="Outro GIF" width="300">
+  <img src="https://media.giphy.com/media/fAnEC88LccN7s/giphy.gif" alt="Creative outro GIF" width="300">
 </p>
 <p align="center">
   Thank you for stopping by! 😊    
