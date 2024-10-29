@@ -1,59 +1,41 @@
-<div align="center">
+# 👋 Hello, I'm Ritesh Jha
 
-# Hi, I'm Ritesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-
-### ☣️ Ha3ardous ☣️
-
----
-
-## Tech Stack 
-
-<div>
-    <img src="https://img.shields.io/badge/HTML-5C2D91?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-</div>
-<div>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</div>
-<div>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/PugJS-ff8f00?style=for-the-badge&logo=pug&logoColor=white" />
-    <img src="https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white" />
-</div>
-<div>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-    <img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-</div>
+## About Me
+I'm a passionate full-stack developer with a love for problem-solving and building efficient, scalable applications. With a foundation in **web development** and **backend services**, I continuously strive to improve my skills and contribute to impactful projects.
 
 ---
 
-## Stats
+### 📫 Contact Me
+- **Email**: [riteshjha2174@gmail.com](mailto:riteshjha2174@gmail.com)
+- **WhatsApp**: +91 8433517682
 
-<div>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshJha912&theme=radical" alt="GitHub Streak" />     
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" alt="Ritesh Jha's GitHub stats" />
-</div>
+### 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/riteshjha912/)
+- [GitHub](https://github.com/RiteshJha912)
+- [Portfolio Website](https://about-ritesh.netlify.app/)
+- [CodeChef](https://www.codechef.com/users/ritesh_jha_9)
+- [HackerRank](https://www.hackerrank.com/profile/riteshjha2174)
 
 ---
 
-## Connect With Me 
+### 🛠️ Technical Skills
 
-<div>
-    <a href="https://www.linkedin.com/in/ritesh-jha-aa490a286/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://github.com/RiteshJha912" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://about-ritesh.netlify.app" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-    </a>
-</div>
-</div>
+**Languages and Frameworks**
+- **Frontend**: HTML, CSS, JavaScript, ReactJS, PugJS
+- **Backend**: NodeJS, ExpressJS, Flask
+- **Databases**: MongoDB, Firebase, MySQL
+- **Programming Languages**: C++, C, Python, Java
+
+**Tools**
+- Postman, Git & GitHub, RestAPI, Kali Linux
+
+---
+
+### 📊 GitHub Stats
+![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshJha912&layout=compact&theme=radical)
+
+---
+
+Thanks for stopping by! Feel free to reach out or connect if you're interested in collaborating or learning more.
+
