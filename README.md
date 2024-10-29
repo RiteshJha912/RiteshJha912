@@ -12,7 +12,7 @@
 
 <p align="center" style="color: #5C4B8A;">
   I am a Full-Stack Developer & Cybersecurity Analyst with a strong foundation in network security, OSINT & website development.    
-  Currently pursuing a B.Tech in IT with a specialization in Cybersecurity. 
+  Currently pursuing a B.Tech in IT with a specialization in Cybersecurity.     
   I am also available for freelance projects—let’s connect to discuss how we can collaborate!
 </p>
 
