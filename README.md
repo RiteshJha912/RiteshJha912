@@ -94,7 +94,7 @@
         <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="80"/>
+        <img src="https://static-00.iconduck.com/assets.00/distributor-logo-kali-linux-icon-2048x2005-dki611fk.png" alt="Kali Linux" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
         <img src="https://cdn-icons-png.flaticon.com/512/2164/2164832.png" alt="REST API" width="80"/>
