@@ -94,9 +94,15 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/fAnEC88LccN7s/giphy.gif" alt="Creative outro GIF" width="300">
-</p>
+<h2 align="center">My Progress</h2>
+
+<div style="width: 100%; background-color: #e0e0e0; border-radius: 25px; overflow: hidden;">
+  <div style="width: 1%; height: 30px; background-color: #68A4FF; text-align: center; line-height: 30px; color: white; font-weight: bold;">1%</div>
+</div>
+<p align="center">Life - 1% Completed</p>
+
+---
+
 <p align="center">
   Thank you for stopping by! 😊    
 </p>
@@ -109,4 +115,3 @@
 </p>
 
 ---
-
