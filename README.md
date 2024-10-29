@@ -94,17 +94,9 @@
 
 ---
 
-<h2 align="center">Progress Bar</h2>
-<div align="center">
-  <div style="width: 70%; background-color: #282c34; border-radius: 10px; overflow: hidden;">
-    <div style="width: 99%; height: 30px; background: linear-gradient(90deg, #39FF14, #FF007F);">
-      <span style="color: white; font-weight: bold; position: relative; top: -20px; left: 10px;">99% Remaining</span>
-    </div>
-  </div>
-</div>
-
----
-
+<p align="center">
+  <img src="[https://media.giphy.com/media/fAnEC88LccN7s/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzU3dW4zc2o4em5sM2h2dHJud2J5c3NwcThoNTVxMW1uZTlkZjZ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/apZu4Fb7op1XWdNRok/giphy.webp)" alt="Creative outro GIF" width="300">
+</p>
 <p align="center">
   Thank you for stopping by! 😊    
 </p>
