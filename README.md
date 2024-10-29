@@ -46,7 +46,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://pugjs.org/logo.svg" alt="PugJS" width="80"/>
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pugjs_logo_icon_170825.png" alt="PugJS" width="80"/>
       </td>
     </tr>
     <tr>
@@ -91,13 +91,13 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="80"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
         <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://cdn.iconscout.com/icon/free/png-256/rest-api-2043067-1729911.png" alt="REST API" width="80"/>
+        <img src="https://www.clipartmax.com/png/middle/285-2851044_restful-search-api-rest-web-services-logo.png" alt="REST API" width="80"/>
       </td>
     </tr>
   </table>
