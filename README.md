@@ -77,12 +77,6 @@ I am a **Full-Stack Developer** & **Cybersecurity Analyst** with a strong founda
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshJha912&theme=tokyonight" alt="GitHub Streak">
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RiteshJha912&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/RiteshJha912?color=36BCF7&label=Followers&style=for-the-badge" alt="GitHub Followers">
-</p>
 
 ---
 
@@ -102,3 +96,13 @@ I am available for freelance projects that involve web development & cybersecuri
 <p align="center">
 Thank you for stopping by! 😊    
 </p>
+
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RiteshJha912&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/RiteshJha912?color=36BCF7&label=Followers&style=for-the-badge" alt="GitHub Followers">
+</p>
+
+---
