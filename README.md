@@ -110,12 +110,11 @@
 <h2 align="center" style="color: #5C4B8A;">GitHub Stats</h2>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&theme=tokyonight" alt="Ritesh's GitHub Stats">
+  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&theme=tokyonight" alt="Ritesh's GitHub Stats" style="max-width: 400px;">
 </p>
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshJha912&theme=tokyonight" alt="GitHub Streak">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshJha912&theme=tokyonight" alt="GitHub Streak" style="max-width: 400px;">
 </p>
-
 ---
 
 <h2 align="center" style="color: #5C4B8A;">💼 Open for Freelance Opportunities! 💼</h2>
