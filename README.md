@@ -89,21 +89,12 @@ I am a **Full-Stack Developer** and **Cybersecurity Analyst** with a strong foun
 
 ---
 
-### 🔐 Cybersecurity Expertise
-With hands-on experience in **network security**, **dark web research**, and **incident analysis** using frameworks like **NIST**, I have a strong background in cybersecurity. I specialize in:
-- **OSINT** (Open Source Intelligence)
-- **Threat detection and vulnerability assessment**
-- **Penetration testing** and **network monitoring**
-  
-🌐 Let's collaborate on securing and enhancing the digital world!
-
----
-
 ### 💼 Open for Freelance Opportunities!
 <p align="center">
-I am available for freelance projects that involve **web development**, **cybersecurity**, and **OSINT**. If you’re looking to build secure, scalable applications or need expert cybersecurity insights, let’s connect!
+I am available for freelance projects that involve **web development**, **cybersecurity** and **OSINT**. If you’re looking to build secure, scalable applications or need expert cybersecurity insights, let’s connect!
 </p>
 
 --- 
 
-Thank you for stopping by! 😊 Connect with me on my social links above or reach out if you're interested in collaborating.
+Thank you for stopping by! 😊    
+Connect with me on my social links above or reach out if you're interested in collaborating.
