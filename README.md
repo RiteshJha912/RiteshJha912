@@ -90,10 +90,8 @@ I am a **Full-Stack Developer** and **Cybersecurity Analyst** with a strong foun
 ---
 
 ### 💼 Open for Freelance Opportunities!
-<p align="center">
 I am available for freelance projects that involve web development & cybersecurity.       
 If you’re looking to build secure, scalable applications or need expert cybersecurity insights, let’s connect!
-</p>
 
 --- 
 
