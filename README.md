@@ -3,14 +3,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%2336BCF7&size=28&center=true&vCenter=true&width=550&lines=Developer+%7C+Cybersecurity+Analyst;Open+Source+Contributor;Freelancer+for+Hire;Problem+Solver+and+Coder" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%2336BCF7&size=28&center=true&vCenter=true&width=550&lines=Developer+%7C+Cybersecurity+Analyst;Open+Source+Contributor;Freelancer+for+Hire;Problem+Solver+&+Coder" alt="Typing SVG">
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-I am a **Full-Stack Developer** and **Cybersecurity Analyst** with a strong foundation in **network security**, **OSINT**, and **web development**. Currently pursuing a B.Tech in IT with a specialization in Cybersecurity. I am also available for **freelance projects**—let’s connect to discuss how we can collaborate!
+I am a **Full-Stack Developer** & **Cybersecurity Analyst** with a strong foundation in **network security**, **OSINT** & **web development**. Currently pursuing a B.Tech in IT with a specialization in Cybersecurity. I am also available for **freelance projects**—let’s connect to discuss how we can collaborate!
 
 ---
 
