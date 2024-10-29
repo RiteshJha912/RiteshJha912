@@ -94,12 +94,14 @@
 
 ---
 
-<h2 align="center">My Progress</h2>
-
-<div style="width: 100%; background-color: #e0e0e0; border-radius: 25px; overflow: hidden;">
-  <div style="width: 1%; height: 30px; background-color: #68A4FF; text-align: center; line-height: 30px; color: white; font-weight: bold;">1%</div>
+<h2 align="center">Progress Bar</h2>
+<div align="center">
+  <div style="width: 70%; background-color: #282c34; border-radius: 10px; overflow: hidden;">
+    <div style="width: 99%; height: 30px; background: linear-gradient(90deg, #39FF14, #FF007F);">
+      <span style="color: white; font-weight: bold; position: relative; top: -20px; left: 10px;">99% Remaining</span>
+    </div>
+  </div>
 </div>
-<p align="center">Life - 1% Completed</p>
 
 ---
 
