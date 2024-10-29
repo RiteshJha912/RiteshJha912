@@ -29,37 +29,85 @@
 
 ---
 
-<h2 align="center" style="color: #6a0dad;">My Tech Stack</h2>
+<h2 align="center" style="color: #6a0dad;">🛠️ My Tech Stack</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/ReactJS-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/PugJS-%23A86454.svg?&style=for-the-badge&logo=pug&logoColor=white" />
-</p>
+<div align="center">
+  <table style="border-collapse: collapse; width: 90%; max-width: 800px;">
+    <tr>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" width="80"/>
+        <br>HTML5
+      </td>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" width="80"/>
+        <br>CSS3
+      </td>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="80"/>
+        <br>JavaScript
+      </td>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://img.shields.io/badge/ReactJS-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" alt="React" width="80"/>
+        <br>ReactJS
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://img.shields.io/badge/NodeJS-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" width="80"/>
+        <br>Node.js
+      </td>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://img.shields.io/badge/ExpressJS-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" alt="Express.js" width="80"/>
+        <br>Express.js
+      </td>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://img.shields.io/badge/Flask-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=white" alt="Flask" width="80"/>
+        <br>Flask
+      </td>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" width="80"/>
+        <br>MongoDB
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" width="80"/>
+        <br>Firebase
+      </td>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" width="80"/>
+        <br>MySQL
+      </td>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" width="80"/>
+        <br>C++
+      </td>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" width="80"/>
+        <br>Python
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" width="80"/>
+        <br>Java
+      </td>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" alt="Postman" width="80"/>
+        <br>Postman
+      </td>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://img.shields.io/badge/Kali_Linux-%23557C94.svg?&style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" width="80"/>
+        <br>Kali Linux
+      </td>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://img.shields.io/badge/OSINT-%2368A4FF.svg?&style=for-the-badge&logo=intel&logoColor=white" alt="OSINT" width="80"/>
+        <br>OSINT
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NodeJS-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/ExpressJS-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-%23557C94.svg?&style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/OSINT-%2368A4FF.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-</p>
 
 ---
 
