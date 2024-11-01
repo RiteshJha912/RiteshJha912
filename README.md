@@ -121,7 +121,8 @@
 <h2 align="center" style="color: #5C4B8A;">      
 Open for Freelance Opportunities!     </h2>
 <p align="center" style="color: #5C4B8A;">
-  I am available for freelance projects that involve web development & cybersecurity.  
+  I am available for freelance projects that involve web development & cybersecurity.   
+  Can contact me from the below links!    
 </p>
 <p align="center">
   <a href="mailto:riteshjha2174@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="font-size: 1.2em;"></a>
