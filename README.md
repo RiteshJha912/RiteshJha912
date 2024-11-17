@@ -11,8 +11,7 @@
 <h2 align="center" style="color: #5C4B8A;">About Me</h2>
 
 <p align="center" style="color: #5C4B8A;">
-  I am a Full-Stack Developer & Cybersecurity Analyst with a strong foundation in network security, OSINT & website development.    
-  Currently pursuing Bachelors of Technology in Information Technology with honors in Cybersecurity.     
+  I am a self-taught programmer, Full-Stack Developer & Cybersecurity Analyst.     
 </p>
 
 ---
