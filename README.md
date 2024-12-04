@@ -147,7 +147,7 @@
         <img src="https://t3.ftcdn.net/jpg/05/09/92/72/360_F_509927238_S101CU2kPTgpA4FREveQI8gsSEUBSl4f.jpg" alt="Under Progress" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center; width: 20%;">
-        <img src="https://cdn.iconscout.com/icon/free/png-512/under-construction-1770200-1509646.png" alt="Under Progress" width="80"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/5038/5038308.png" alt="Under Progress" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center; width: 20%;">
         <img src="https://cdn.iconscout.com/icon/free/png-512/under-construction-1770200-1509646.png" alt="Under Progress" width="80"/>
