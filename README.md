@@ -29,9 +29,8 @@
 
 ---
 
-<h2 align="center" style="color: #6a0dad;">My Tech Stack</h2>
 
-<h2 align="center" style="color: #6a0dad;">My Tech Stack</h2>
+<h2 align="center" style="color: #6a0dad;">Technologies I worked with </h2>
 
 <div align="center">
   <table style="border-collapse: collapse; width: 90%; max-width: 800px;">
@@ -88,7 +87,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://www.flaticon.com/free-icon/api_10169724" alt="REST API" width="80"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/10169/10169724.png" alt="REST API" width="80"/>
       </td>
     </tr>
     <tr>
@@ -113,7 +112,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Vercel_logo.svg" alt="Vercel" width="80"/>
+        <img src="https://smlvqzf0a1b66cku.public.blob.vercel-storage.com/images/Vercel%20Logo-IMoeV2W33gFclXzAfZxmAHqtjBuTzP.png" alt="Vercel" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="80"/>
@@ -121,21 +120,34 @@
     </tr>
     <tr>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Jupyter_Logo_2.svg/1200px-Jupyter_Logo_2.svg.png" alt="Jupyter" width="80"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" alt="Jupyter" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" alt="NumPy" width="80"/>
+        <img src="https://avatars.githubusercontent.com/u/288276?s=280&v=4" alt="NumPy" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Pandas_logo.svg/1200px-Pandas_logo.svg.png" alt="Pandas" width="80"/>
+        <img src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" alt="Pandas" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Matplotlib_logo.svg/1200px-Matplotlib_logo.svg.png" alt="Matplotlib" width="80"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="Matplotlib" width="80"/>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="80"/>
+      </td>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="Netlify" width="80"/>
+      </td>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://cdn.iconscout.com/icon/free/png-512/under-construction-1770200-1509646.png" alt="Under Progress" width="80"/>
+      </td>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://cdn.iconscout.com/icon/free/png-512/under-construction-1770200-1509646.png" alt="Under Progress" width="80"/>
       </td>
     </tr>
   </table>
 </div>
-
 
 
 ---
