@@ -46,11 +46,11 @@
       <td style="padding: 20px; text-align: center;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="80"/>
       </td>
+    </tr>
+    <tr>
       <td style="padding: 20px; text-align: center;">
         <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pugjs_logo_icon_170825.png" alt="PugJS" width="80"/>
       </td>
-    </tr>
-    <tr>
       <td style="padding: 20px; text-align: center;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="80"/>
       </td>
@@ -60,20 +60,22 @@
       <td style="padding: 20px; text-align: center;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="80"/>
       </td>
+    </tr>
+    <tr>
       <td style="padding: 20px; text-align: center;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="80"/>
       </td>
-    </tr>
-    <tr>
       <td style="padding: 20px; text-align: center;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="80"/>
       </td>
+    </tr>
+    <tr>
       <td style="padding: 20px; text-align: center;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="80"/>
       </td>
@@ -83,22 +85,25 @@
       <td style="padding: 20px; text-align: center;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="80"/>
       </td>
-    </tr>
-    <tr>
       <td style="padding: 20px; text-align: center;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="Three.js" width="80"/>
       </td>
+    </tr>
+    <tr>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://via.placeholder.com/80?text=Upcoming" alt="Upcoming" width="80"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://via.placeholder.com/80?text=Upcoming" alt="Upcoming" width="80"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://via.placeholder.com/80?text=Upcoming" alt="Upcoming" width="80"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://via.placeholder.com/80?text=Upcoming" alt="Upcoming" width="80"/>
+        <img src="https://static-00.iconduck.com/assets.00/distributor-logo-kali-linux-icon-2048x2005-dki611fk.png" alt="Kali Linux" width="80"/>
+      </td>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://cdn-icons-png.flaticon.com/512/2164/2164832.png" alt="REST API" width="80"/>
       </td>
     </tr>
   </table>
