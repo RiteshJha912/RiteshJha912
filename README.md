@@ -35,116 +35,115 @@
 <div align="center">
   <table style="border-collapse: collapse; width: 90%; max-width: 800px;">
     <tr>
-      <td style="padding: 20px; text-align: center;">
+      <td style="padding: 20px; text-align: center; width: 20%;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="80"/>
       </td>
-      <td style="padding: 20px; text-align: center;">
+      <td style="padding: 20px; text-align: center; width: 20%;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80"/>
       </td>
-      <td style="padding: 20px; text-align: center;">
+      <td style="padding: 20px; text-align: center; width: 20%;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80"/>
       </td>
-      <td style="padding: 20px; text-align: center;">
+      <td style="padding: 20px; text-align: center; width: 20%;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="80"/>
       </td>
-    </tr>
-    <tr>
-      <td style="padding: 20px; text-align: center;">
+      <td style="padding: 20px; text-align: center; width: 20%;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="80"/>
       </td>
-      <td style="padding: 20px; text-align: center;">
+    </tr>
+    <tr>
+      <td style="padding: 20px; text-align: center; width: 20%;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="80"/>
       </td>
-      <td style="padding: 20px; text-align: center;">
+      <td style="padding: 20px; text-align: center; width: 20%;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="80"/>
       </td>
-      <td style="padding: 20px; text-align: center;">
+      <td style="padding: 20px; text-align: center; width: 20%;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="80"/>
       </td>
-    </tr>
-    <tr>
-      <td style="padding: 20px; text-align: center;">
+      <td style="padding: 20px; text-align: center; width: 20%;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="80"/>
       </td>
-      <td style="padding: 20px; text-align: center;">
+      <td style="padding: 20px; text-align: center; width: 20%;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="80"/>
       </td>
-      <td style="padding: 20px; text-align: center;">
+    </tr>
+    <tr>
+      <td style="padding: 20px; text-align: center; width: 20%;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="80"/>
       </td>
-      <td style="padding: 20px; text-align: center;">
+      <td style="padding: 20px; text-align: center; width: 20%;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="Three.js" width="80"/>
       </td>
-    </tr>
-    <tr>
-      <td style="padding: 20px; text-align: center;">
+      <td style="padding: 20px; text-align: center; width: 20%;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="80"/>
       </td>
-      <td style="padding: 20px; text-align: center;">
+      <td style="padding: 20px; text-align: center; width: 20%;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="80"/>
       </td>
-      <td style="padding: 20px; text-align: center;">
+      <td style="padding: 20px; text-align: center; width: 20%;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="80"/>
-      </td>
-      <td style="padding: 20px; text-align: center;">
-        <img src="https://cdn-icons-png.flaticon.com/512/10169/10169724.png" alt="REST API" width="80"/>
       </td>
     </tr>
     <tr>
-      <td style="padding: 20px; text-align: center;">
+      <td style="padding: 20px; text-align: center; width: 20%;">
+        <img src="https://cdn-icons-png.flaticon.com/512/10169/10169724.png" alt="REST API" width="80"/>
+      </td>
+      <td style="padding: 20px; text-align: center; width: 20%;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="80"/>
       </td>
-      <td style="padding: 20px; text-align: center;">
+      <td style="padding: 20px; text-align: center; width: 20%;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="80"/>
       </td>
-      <td style="padding: 20px; text-align: center;">
+      <td style="padding: 20px; text-align: center; width: 20%;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="80"/>
       </td>
-      <td style="padding: 20px; text-align: center;">
+      <td style="padding: 20px; text-align: center; width: 20%;">
         <img src="https://static-00.iconduck.com/assets.00/distributor-logo-kali-linux-icon-2048x2005-dki611fk.png" alt="Kali Linux" width="80"/>
       </td>
     </tr>
     <tr>
-      <td style="padding: 20px; text-align: center;">
+      <td style="padding: 20px; text-align: center; width: 20%;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="80"/>
       </td>
-      <td style="padding: 20px; text-align: center;">
+      <td style="padding: 20px; text-align: center; width: 20%;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="80"/>
       </td>
-      <td style="padding: 20px; text-align: center;">
+      <td style="padding: 20px; text-align: center; width: 20%;">
         <img src="https://smlvqzf0a1b66cku.public.blob.vercel-storage.com/images/Vercel%20Logo-IMoeV2W33gFclXzAfZxmAHqtjBuTzP.png" alt="Vercel" width="80"/>
       </td>
-      <td style="padding: 20px; text-align: center;">
+      <td style="padding: 20px; text-align: center; width: 20%;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="80"/>
       </td>
-    </tr>
-    <tr>
-      <td style="padding: 20px; text-align: center;">
+      <td style="padding: 20px; text-align: center; width: 20%;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" alt="Jupyter" width="80"/>
       </td>
-      <td style="padding: 20px; text-align: center;">
+    </tr>
+    <tr>
+      <td style="padding: 20px; text-align: center; width: 20%;">
         <img src="https://avatars.githubusercontent.com/u/288276?s=280&v=4" alt="NumPy" width="80"/>
       </td>
-      <td style="padding: 20px; text-align: center;">
+      <td style="padding: 20px; text-align: center; width: 20%;">
         <img src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" alt="Pandas" width="80"/>
       </td>
-      <td style="padding: 20px; text-align: center;">
+      <td style="padding: 20px; text-align: center; width: 20%;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="Matplotlib" width="80"/>
+      </td>
+      <td style="padding: 20px; text-align: center; width: 20%;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="80"/>
+      </td>
+      <td style="padding: 20px; text-align: center; width: 20%;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="Netlify" width="80"/>
       </td>
     </tr>
     <tr>
-      <td style="padding: 20px; text-align: center;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="80"/>
-      </td>
-      <td style="padding: 20px; text-align: center;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="Netlify" width="80"/>
-      </td>
-      <td style="padding: 20px; text-align: center;">
+      <td style="padding: 20px; text-align: center; width: 20%;">
         <img src="https://cdn.iconscout.com/icon/free/png-512/under-construction-1770200-1509646.png" alt="Under Progress" width="80"/>
       </td>
-      <td style="padding: 20px; text-align: center;">
+      <td style="padding: 20px; text-align: center; width: 20%;">
         <img src="https://cdn.iconscout.com/icon/free/png-512/under-construction-1770200-1509646.png" alt="Under Progress" width="80"/>
       </td>
+      <td colspan="3" style="padding: 20px; text-align: center;"></td>
     </tr>
   </table>
 </div>
