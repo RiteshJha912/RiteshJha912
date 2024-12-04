@@ -23,7 +23,7 @@
   <a href="https://github.com/RiteshJha912"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.codechef.com/users/ritesh_jha_9"><img src="https://img.shields.io/badge/CodeChef-%23B92B27.svg?style=for-the-badge&logo=codechef&logoColor=white"></a>
 </p>
-<p>
+<p align="center">
   <a href="https://www.hackerrank.com/profile/riteshjha2174"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
   <a href="https://leetcode.com/u/RiteshJha912/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"></a>
   <a href="https://www.naukri.com/code360/profile/HazardousRJ"><img src="https://img.shields.io/badge/CodingNinjas-%23FF5722.svg?style=for-the-badge&logo=codingninjas&logoColor=white"></a>
