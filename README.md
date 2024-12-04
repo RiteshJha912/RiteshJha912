@@ -33,7 +33,7 @@
 <h2 align="center" style="color: #6a0dad;">Technologies I worked with </h2>
 
 <div align="center">
-  <table style="border-collapse: collapse; width: 90%; max-width: 800px;">
+  <table style="border-collapse: collapse; width: 100%; max-width: 800px;">
     <tr>
       <td style="padding: 20px; text-align: center; width: 20%;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="80"/>
@@ -143,10 +143,19 @@
       <td style="padding: 20px; text-align: center; width: 20%;">
         <img src="https://cdn.iconscout.com/icon/free/png-512/under-construction-1770200-1509646.png" alt="Under Progress" width="80"/>
       </td>
-      <td colspan="3" style="padding: 20px; text-align: center;"></td>
+      <td style="padding: 20px; text-align: center; width: 20%;">
+        <img src="https://cdn.iconscout.com/icon/free/png-512/under-construction-1770200-1509646.png" alt="Under Progress" width="80"/>
+      </td>
+      <td style="padding: 20px; text-align: center; width: 20%;">
+        <img src="https://cdn.iconscout.com/icon/free/png-512/under-construction-1770200-1509646.png" alt="Under Progress" width="80"/>
+      </td>
+      <td style="padding: 20px; text-align: center; width: 20%;">
+        <img src="https://cdn.iconscout.com/icon/free/png-512/under-construction-1770200-1509646.png" alt="Under Progress" width="80"/>
+      </td>
     </tr>
   </table>
 </div>
+
 
 
 ---
