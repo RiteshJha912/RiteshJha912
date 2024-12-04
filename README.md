@@ -31,6 +31,8 @@
 
 <h2 align="center" style="color: #6a0dad;">My Tech Stack</h2>
 
+<h2 align="center" style="color: #6a0dad;">My Tech Stack</h2>
+
 <div align="center">
   <table style="border-collapse: collapse; width: 90%; max-width: 800px;">
     <tr>
@@ -86,7 +88,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rest/rest-original.svg" alt="REST API" width="80"/>
+        <img src="https://www.flaticon.com/free-icon/api_10169724" alt="REST API" width="80"/>
       </td>
     </tr>
     <tr>
@@ -103,8 +105,37 @@
         <img src="https://static-00.iconduck.com/assets.00/distributor-logo-kali-linux-icon-2048x2005-dki611fk.png" alt="Kali Linux" width="80"/>
       </td>
     </tr>
+    <tr>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="80"/>
+      </td>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="80"/>
+      </td>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Vercel_logo.svg" alt="Vercel" width="80"/>
+      </td>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="80"/>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Jupyter_Logo_2.svg/1200px-Jupyter_Logo_2.svg.png" alt="Jupyter" width="80"/>
+      </td>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" alt="NumPy" width="80"/>
+      </td>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Pandas_logo.svg/1200px-Pandas_logo.svg.png" alt="Pandas" width="80"/>
+      </td>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Matplotlib_logo.svg/1200px-Matplotlib_logo.svg.png" alt="Matplotlib" width="80"/>
+      </td>
+    </tr>
   </table>
 </div>
+
 
 
 ---
