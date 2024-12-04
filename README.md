@@ -138,10 +138,10 @@
     </tr>
     <tr>
       <td style="padding: 20px; text-align: center; width: 20%;">
-        <img src="https://cdn.iconscout.com/icon/free/png-512/under-construction-1770200-1509646.png" alt="Under Progress" width="80"/>
+        <img src="https://git.lab.sspcloud.fr/uploads/-/system/project/avatar/1748/logo.png" alt="MobSF" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center; width: 20%;">
-        <img src="https://cdn.iconscout.com/icon/free/png-512/under-construction-1770200-1509646.png" alt="Under Progress" width="80"/>
+        <img src="https://i.pinimg.com/736x/be/96/86/be968637d15847d3d05a3cd6e6fbc54d.jpg" alt="Under Progress" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center; width: 20%;">
         <img src="https://cdn.iconscout.com/icon/free/png-512/under-construction-1770200-1509646.png" alt="Under Progress" width="80"/>
