@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%2368A4FF&size=28&center=true&vCenter=true&width=550&lines=Developer+%7C+Cybersecurity+Analyst;Open+Source+Contributor;Freelancer+for+Hire;Problem+Solver+and+Coder" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%2368A4FF&size=28&center=true&vCenter=true&width=550&lines=Developer+%7C+Cybersecurity+Analyst;Freelancer+for+Hire;Problem+Solver+and+Coder" alt="Typing SVG">
 </p>
 
 ---
@@ -23,9 +23,12 @@
   <a href="https://about-ritesh.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23668A4F.svg?style=for-the-badge&logo=react&logoColor=white"></a>
   <a href="https://www.codechef.com/users/ritesh_jha_9"><img src="https://img.shields.io/badge/CodeChef-%23B92B27.svg?style=for-the-badge&logo=codechef&logoColor=white"></a>
   <a href="https://www.hackerrank.com/profile/riteshjha2174"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
+  <a href="https://leetcode.com/u/RiteshJha912/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+  <a href="https://www.naukri.com/code360/profile/HazardousRJ"><img src="https://img.shields.io/badge/CodingNinjas-%23FF5722.svg?style=for-the-badge&logo=codingninjas&logoColor=white"></a>
 </p>
 
 ---
+
 <h2 align="center" style="color: #6a0dad;">My Tech Stack</h2>
 
 <div align="center">
@@ -83,41 +86,29 @@
     </tr>
     <tr>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="80"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="Three.js" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="80"/>
+        <img src="https://via.placeholder.com/80?text=Upcoming" alt="Upcoming" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="80"/>
+        <img src="https://via.placeholder.com/80?text=Upcoming" alt="Upcoming" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://static-00.iconduck.com/assets.00/distributor-logo-kali-linux-icon-2048x2005-dki611fk.png" alt="Kali Linux" width="80"/>
+        <img src="https://via.placeholder.com/80?text=Upcoming" alt="Upcoming" width="80"/>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://cdn-icons-png.flaticon.com/512/2164/2164832.png" alt="REST API" width="80"/>
+        <img src="https://via.placeholder.com/80?text=Upcoming" alt="Upcoming" width="80"/>
       </td>
     </tr>
   </table>
 </div>
 
-
-
----
-
-<h2 align="center" style="color: #5C4B8A;">GitHub Stats</h2>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshJha912&theme=tokyonight" alt="GitHub Streak" style="max-width: 400px;">
-</p>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&theme=tokyonight" alt="Ritesh's GitHub Stats" style="max-width: 400px;">
-</p>
-
 ---
 
 <h2 align="center" style="color: #5C4B8A;">      
-Open for Freelance Opportunities!     </h2>
+Open for Freelance Opportunities!     
+</h2>
 <p align="center" style="color: #5C4B8A;">
   I am available for freelance projects that involve web development & cybersecurity.   
   Can contact me from the below links!    
@@ -125,7 +116,9 @@ Open for Freelance Opportunities!     </h2>
 <p align="center">
   <a href="mailto:riteshjha2174@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="font-size: 1.2em;"></a>
   <a href="https://wa.me/918433517682"><img src="https://img.shields.io/badge/WhatsApp-%25C34D1D.svg?style=for-the-badge&logo=whatsapp&logoColor=white" style="font-size: 1.2em;"></a>
+  <a href="https://discord.com/users/riteshjha912"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="font-size: 1.2em;"></a>
 </p>
+
 
 ---
 
