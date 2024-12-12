@@ -16,6 +16,22 @@
 
 ---
 
+<h2 align="center" style="color: #5C4B8A;">      
+Open for Freelance Opportunities!     
+</h2>
+<p align="center" style="color: #5C4B8A;">
+  I am available for freelance projects that involve web development & cybersecurity.   
+  Can contact me from the below links!    
+</p>
+<p align="center">
+  <a href="mailto:riteshjha2174@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="font-size: 1.2em;"></a>
+  <a href="https://wa.me/918433517682"><img src="https://img.shields.io/badge/WhatsApp-%25C34D1D.svg?style=for-the-badge&logo=whatsapp&logoColor=white" style="font-size: 1.2em;"></a>
+  <a href="https://discord.com/users/riteshjha912"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="font-size: 1.2em;"></a>
+</p>
+
+
+---
+
 <h2 align="center" style="color: #5C4B8A;">Socials</h2>
 <p align="center">
   <a href="https://about-ritesh.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23668A4F.svg?style=for-the-badge&logo=react&logoColor=white"></a>
@@ -163,19 +179,10 @@
 
 ---
 
-<h2 align="center" style="color: #5C4B8A;">      
-Open for Freelance Opportunities!     
-</h2>
-<p align="center" style="color: #5C4B8A;">
-  I am available for freelance projects that involve web development & cybersecurity.   
-  Can contact me from the below links!    
-</p>
 <p align="center">
-  <a href="mailto:riteshjha2174@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="font-size: 1.2em;"></a>
-  <a href="https://wa.me/918433517682"><img src="https://img.shields.io/badge/WhatsApp-%25C34D1D.svg?style=for-the-badge&logo=whatsapp&logoColor=white" style="font-size: 1.2em;"></a>
-  <a href="https://discord.com/users/riteshjha912"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="font-size: 1.2em;"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshJha912&theme=radical" alt="GitHub Streak Stats" width="400">
 </p>
-
 
 ---
 
