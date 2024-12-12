@@ -11,7 +11,7 @@
 <h2 align="center" style="color: #5C4B8A;">About Me</h2>
 
 <p align="center" style="color: #5C4B8A;">
-  I am a self-taught programmer, Full-Stack Developer & Cybersecurity Analyst.     
+  I am a self-taught programmer, full-Stack developer & cybersecurity analyst.     
 </p>
 
 ---
