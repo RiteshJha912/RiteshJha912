@@ -159,7 +159,7 @@ Open for Freelance Opportunities!
         <img src="https://git.lab.sspcloud.fr/uploads/-/system/project/avatar/1748/logo.png" alt="MobSF" width="60"/>
       </td>
       <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://cdn-icons-png.flaticon.com/512/5038/5038308.png" alt="Under Progress" width="60"/>
+        <img src="https://ph-files.imgix.net/297bc3d4-bd2e-4eaa-8fb6-a289cf61ea91.png?auto=format" alt="Clerk" width="60"/>
       </td>
       <td style="padding: 10px; text-align: center; width: 20%;">
         <img src="https://cdn-icons-png.flaticon.com/512/5038/5038308.png" alt="Under Progress" width="60"/>
