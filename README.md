@@ -14,7 +14,6 @@
   I am a self-taught programmer, full-Stack developer & cybersecurity analyst.     
 </p>
 
----
 
 <h2 align="center" style="color: #5C4B8A;">      
 Open for Freelance Opportunities!     
