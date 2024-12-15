@@ -22,9 +22,8 @@ Open for Freelance Opportunities!
 </p>
 
 
----
 
-<h2 align="center" style="color: #5C4B8A;">Socials</h2>
+<h3 align="center" style="color: #5C4B8A;">Other Socials</h3>
 <p align="center">
   <a href="https://about-ritesh.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23668A4F.svg?style=for-the-badge&logo=react&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ritesh-jha-aa490a286/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
