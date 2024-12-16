@@ -22,33 +22,33 @@ Open for Freelance Opportunities!
 </p>
 
 
-
 <h3 align="center" style="color: #5C4B8A;">Other Socials</h3>
 <p align="center">
-  <a href="https://about-ritesh.netlify.app/">
+  <a href="https://about-ritesh.netlify.app/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Personal%20Website-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2300FFFF">
   </a>
-  <a href="https://www.linkedin.com/in/ritesh-jha-aa490a286/">
+  <a href="https://www.linkedin.com/in/ritesh-jha-aa490a286/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=%230077B5">
   </a>
-  <a href="https://github.com/RiteshJha912">
+  <a href="https://github.com/RiteshJha912" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=%23FFFFFF">
   </a>
-  <a href="https://www.codechef.com/users/ritesh_jha_9">
+  <a href="https://www.codechef.com/users/ritesh_jha_9" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/CodeChef-%23000000.svg?style=for-the-badge&logo=codechef&logoColor=%23FF5722">
   </a>
 </p>
 <p align="center">
-  <a href="https://www.hackerrank.com/profile/riteshjha2174">
+  <a href="https://www.hackerrank.com/profile/riteshjha2174" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/HackerRank-%23000000.svg?style=for-the-badge&logo=hackerrank&logoColor=%232EC866">
   </a>
-  <a href="https://leetcode.com/u/RiteshJha912/">
+  <a href="https://leetcode.com/u/RiteshJha912/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=%23FFA116">
   </a>
-  <a href="https://www.naukri.com/code360/profile/HazardousRJ">
+  <a href="https://www.naukri.com/code360/profile/HazardousRJ" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/CodingNinjas-%23000000.svg?style=for-the-badge&logo=codingninjas&logoColor=%23FF5722">
   </a>
 </p>
+
 
 
 ---
