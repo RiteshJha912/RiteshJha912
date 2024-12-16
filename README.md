@@ -13,7 +13,7 @@ Open for Freelance Opportunities!
 </h2>
 <p align="center" style="color: #5C4B8A;">
   I am available for freelance projects that involve web development & cybersecurity.   
-  Can contact me from the below links!    
+  You can contact me from the below links!    
 </p>
 <p align="center">
   <a href="mailto:riteshjha2174@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="font-size: 1.2em;"></a>
@@ -25,16 +25,31 @@ Open for Freelance Opportunities!
 
 <h3 align="center" style="color: #5C4B8A;">Other Socials</h3>
 <p align="center">
-<a href="https://about-ritesh.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2300FFFF"></a>
-  <a href="https://www.linkedin.com/in/ritesh-jha-aa490a286/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/RiteshJha912"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.codechef.com/users/ritesh_jha_9"><img src="https://img.shields.io/badge/CodeChef-%23B92B27.svg?style=for-the-badge&logo=codechef&logoColor=white"></a>
+  <a href="https://about-ritesh.netlify.app/">
+    <img src="https://img.shields.io/badge/Personal%20Website-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2300FFFF">
+  </a>
+  <a href="https://www.linkedin.com/in/ritesh-jha-aa490a286/">
+    <img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=%230077B5">
+  </a>
+  <a href="https://github.com/RiteshJha912">
+    <img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=%23FFFFFF">
+  </a>
+  <a href="https://www.codechef.com/users/ritesh_jha_9">
+    <img src="https://img.shields.io/badge/CodeChef-%23000000.svg?style=for-the-badge&logo=codechef&logoColor=%23FF5722">
+  </a>
 </p>
 <p align="center">
-  <a href="https://www.hackerrank.com/profile/riteshjha2174"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
-  <a href="https://leetcode.com/u/RiteshJha912/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"></a>
-  <a href="https://www.naukri.com/code360/profile/HazardousRJ"><img src="https://img.shields.io/badge/CodingNinjas-%23FF5722.svg?style=for-the-badge&logo=codingninjas&logoColor=white"></a>
+  <a href="https://www.hackerrank.com/profile/riteshjha2174">
+    <img src="https://img.shields.io/badge/HackerRank-%23000000.svg?style=for-the-badge&logo=hackerrank&logoColor=%232EC866">
+  </a>
+  <a href="https://leetcode.com/u/RiteshJha912/">
+    <img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=%23FFA116">
+  </a>
+  <a href="https://www.naukri.com/code360/profile/HazardousRJ">
+    <img src="https://img.shields.io/badge/CodingNinjas-%23000000.svg?style=for-the-badge&logo=codingninjas&logoColor=%23FF5722">
+  </a>
 </p>
+
 
 ---
 
