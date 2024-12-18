@@ -184,9 +184,6 @@ Open for Freelance Opportunities!
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="400">
-  </p>
   <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshJha912&theme=radical" alt="GitHub Streak Stats" width="410">
 </p>
