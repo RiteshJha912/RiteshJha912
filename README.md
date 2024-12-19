@@ -183,8 +183,8 @@ Open for Freelance Opportunities!
 
 
 ---
-
-  <p align="center">
+<h2 align="center" style="color: #6a0dad;">Streak Stats </h2>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshJha912&theme=radical" alt="GitHub Streak Stats" width="410">
 </p>
 
