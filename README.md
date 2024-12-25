@@ -9,7 +9,7 @@
 ---
 
 <h2 align="center" style="color: #5C4B8A;">      
-Open for Freelance Opportunities!     
+Open for Freelance Opportunities    
 </h2>
 <p align="center" style="color: #5C4B8A;">
   I am available for freelance projects that involve web development & cybersecurity.<br/>         
