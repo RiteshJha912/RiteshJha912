@@ -54,7 +54,7 @@ Open for Freelance Opportunities
 ---
 
 
-<h2 align="center" style="color: #6a0dad;">Technologies I worked with </h2>
+<h2 align="center" style="color: #6a0dad;">Technologies I worked with</h2>
 
 <div align="center">
   <table style="border-collapse: collapse; width: 100%; max-width: 800px;">
@@ -73,6 +73,23 @@ Open for Freelance Opportunities
       </td>
       <td style="padding: 10px; text-align: center; width: 20%;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60"/>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; text-align: center; width: 20%;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60"/>
+      </td>
+      <td style="padding: 10px; text-align: center; width: 20%;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="60"/>
+      </td>
+      <td style="padding: 10px; text-align: center; width: 20%;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="60"/>
+      </td>
+      <td style="padding: 10px; text-align: center; width: 20%;">
+        <img src="https://static-00.iconduck.com/assets.00/lottie-logo-icon-2048x2048-p5fgvcid.png" alt="Lottie" width="60"/>
+      </td>
+      <td style="padding: 10px; text-align: center; width: 20%;">
+        <img src="https://seeklogo.com/images/F/framer-motion-logo-DA5E92B6F6-seeklogo.com.png" alt="Framer Motion" width="60"/>
       </td>
     </tr>
     <tr>
