@@ -83,13 +83,13 @@ Open for Freelance Opportunities
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="60"/>
       </td>
       <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="60"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" width="60"/>
       </td>
       <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://static-00.iconduck.com/assets.00/lottie-logo-icon-2048x2048-p5fgvcid.png" alt="Lottie" width="60"/>
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-lottiefiles-logo-icon-download-in-svg-png-gif-file-formats--lottifiles-brand-iconscout-pack-logos-icons-4674917.png" alt="Lottie" width="60"/>
       </td>
       <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://seeklogo.com/images/F/framer-motion-logo-DA5E92B6F6-seeklogo.com.png" alt="Framer Motion" width="60"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="Framer Motion" width="60"/>
       </td>
     </tr>
     <tr>
