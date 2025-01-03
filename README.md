@@ -50,6 +50,14 @@ Open for Freelance Opportunities
   </a>
 </p>
 
+<p align="center">
+  <a href="https://unstop.com/u/ritesjha1626">
+    <img src="https://img.shields.io/badge/Unstop-%23000000.svg?style=for-the-badge&logo=unstop&logoColor=%23FF5722">
+  </a>
+  <a href="https://devfolio.co/@Hazardous">
+    <img src="https://img.shields.io/badge/Devfolio-%23000000.svg?style=for-the-badge&logo=devfolio&logoColor=%23F0A36E">
+  </a>
+</p>
 
 ---
 
