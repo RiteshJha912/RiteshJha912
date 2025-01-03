@@ -55,7 +55,7 @@ Open for Freelance Opportunities
     <img src="https://img.shields.io/badge/Unstop-%23000000.svg?style=for-the-badge&logo=unstop&logoColor=%23FF5722">
   </a>
   <a href="https://devfolio.co/@Hazardous">
-    <img src="https://img.shields.io/badge/Devfolio-%23000000.svg?style=for-the-badge&logo=devfolio&logoColor=%23F0A36E">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Devfolio_Logo.png" alt="Devfolio" height="30">
   </a>
 </p>
 
