@@ -27,9 +27,6 @@ Open for Freelance Opportunities
   <a href="https://about-ritesh.netlify.app/">
     <img src="https://img.shields.io/badge/Personal%20Website-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2300FFFF">
   </a>
-  <a href="https://www.linkedin.com/in/ritesh-jha-aa490a286/">
-    <img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=%230077B5">
-  </a>
   <a href="https://github.com/RiteshJha912">
     <img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=%23FFFFFF">
   </a>
@@ -51,6 +48,9 @@ Open for Freelance Opportunities
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/ritesh-jha-aa490a286/">
+    <img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=%230077B5">
+  </a>
   <a href="https://unstop.com/u/ritesjha1626">
     <img src="https://img.shields.io/badge/Unstop-%23000000.svg?style=for-the-badge&logo=stackexchange&logoColor=%23F3A802">
   </a>
