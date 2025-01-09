@@ -214,7 +214,7 @@ Open for Freelance Opportunities
 ---
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Game" width="500">
+  <img src="https://cdn.dribbble.com/users/3722582/screenshots/15437705/media/078b5d2c8b521080bbbdfb8aa5737fcd.gif" alt="Working Man" width="500">
 </p>
 
 <p align="center" style="color: #5C4B8A;">
