@@ -8,32 +8,37 @@
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 2rem;">
-  <!-- Left Section -->
-  <div style="flex: 1; text-align: center; color: #5C4B8A; border-right: 2px solid #5C4B8A; padding-right: 1rem;">
-    <h2>Open for Freelance Opportunities</h2>
-    <p>
-      I am available for freelance projects that involve web development & cybersecurity.<br/>
-      You can contact me from the below links!
-    </p>
-    <p>
-      <a href="mailto:riteshjha2174@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="font-size: 1.2em;">
-      </a>
-      <a href="https://wa.me/918433517682">
-        <img src="https://img.shields.io/badge/WhatsApp-%25C34D1D.svg?style=for-the-badge&logo=whatsapp&logoColor=white" style="font-size: 1.2em;">
-      </a>
-      <a href="https://discord.com/users/riteshjha912">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="font-size: 1.2em;">
-      </a>
-    </p>
-  </div>
+<h2 align="center" style="color: #5C4B8A;">      
+Open for Freelance Opportunities    
+</h2>
 
-  <!-- Right Section -->
-  <div style="flex: 1; display: flex; justify-content: center; align-items: center; padding-left: 1rem;">
-    <img src="https://cdn.dribbble.com/users/3722582/screenshots/15437705/media/078b5d2c8b521080bbbdfb8aa5737fcd.gif" alt="Freelance Opportunities" style="max-width: 100%; height: auto; border-radius: 10px;">
-  </div>
-</div>
+<table>
+  <tr>
+    <!-- Left Section -->
+    <td align="center" style="width: 50%; border-right: 1px solid #5C4B8A; padding-right: 10px;">
+      <p style="color: #5C4B8A;">
+        I am available for freelance projects that involve web development & cybersecurity.<br/>         
+        You can contact me from the below links!    
+      </p>
+      <p>
+        <a href="mailto:riteshjha2174@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+        </a>
+        <a href="https://wa.me/918433517682">
+          <img src="https://img.shields.io/badge/WhatsApp-%25C34D1D.svg?style=for-the-badge&logo=whatsapp&logoColor=white">
+        </a>
+        <a href="https://discord.com/users/riteshjha912">
+          <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+        </a>
+      </p>
+    </td>
+    
+    <!-- Right Section -->
+    <td align="center" style="width: 50%; padding-left: 10px;">
+      <img src="https://cdn.dribbble.com/users/3722582/screenshots/15437705/media/078b5d2c8b521080bbbdfb8aa5737fcd.gif" alt="Freelance Opportunities" width="300">
+    </td>
+  </tr>
+</table>
 
 ---
 
