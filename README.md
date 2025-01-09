@@ -214,7 +214,7 @@ Open for Freelance Opportunities
 ---
 
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5d6c0185301511.5d77cedf2196c.gif" alt="Lonely Man" width="500">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5d6c0185301511.5d77cedf2196c.gif" alt="Lonely Man" width="200">
 </p>
 
 <p align="center" style="color: #5C4B8A;">
