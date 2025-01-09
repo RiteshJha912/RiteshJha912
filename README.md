@@ -11,37 +11,52 @@
 <h2 align="center" style="color: #5C4B8A;">      
 Open for Freelance Opportunities    
 </h2>
+<p align="center" style="color: #5C4B8A;">
+  I am available for freelance projects that involve web development & cybersecurity.<br/>         
+  You can contact me from the below links!    
+</p>
+<p align="center">
+  <a href="mailto:riteshjha2174@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="font-size: 1.2em;"></a>
+  <a href="https://wa.me/918433517682"><img src="https://img.shields.io/badge/WhatsApp-%25C34D1D.svg?style=for-the-badge&logo=whatsapp&logoColor=white" style="font-size: 1.2em;"></a>
+  <a href="https://discord.com/users/riteshjha912"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="font-size: 1.2em;"></a>
+</p>
 
-<table>
-  <tr>
-    <!-- Left Section -->
-    <td align="center" style="width: 50%; border-right: 1px solid #5C4B8A; padding-right: 10px;">
-      <p style="color: #5C4B8A;">
-        I am available for freelance projects that involve web development & cybersecurity.<br/>         
-        You can contact me from the below links!    
-      </p>
-      <p>
-        <a href="mailto:riteshjha2174@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-        </a>
-        <a href="https://wa.me/918433517682">
-          <img src="https://img.shields.io/badge/WhatsApp-%25C34D1D.svg?style=for-the-badge&logo=whatsapp&logoColor=white">
-        </a>
-        <a href="https://discord.com/users/riteshjha912">
-          <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-        </a>
-      </p>
-    </td>
-    
-    <!-- Right Section -->
-    <td align="center" style="width: 50%; padding-left: 10px;">
-      <img src="https://cdn.dribbble.com/users/3722582/screenshots/15437705/media/078b5d2c8b521080bbbdfb8aa5737fcd.gif" alt="Freelance Opportunities" width="300">
-    </td>
-  </tr>
-</table>
+
+<h3 align="center" style="color: #5C4B8A;">Other Socials</h3>
+<p align="center">
+  <a href="https://about-ritesh.netlify.app/">
+    <img src="https://img.shields.io/badge/Personal%20Website-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2300FFFF">
+  </a>
+  <a href="https://github.com/RiteshJha912">
+    <img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=%23FFFFFF">
+  </a>
+  <a href="https://leetcode.com/u/RiteshJha912/">
+    <img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=%23FFA116">
+  </a>
+  
+</p>
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/riteshjha2174">
+    <img src="https://img.shields.io/badge/HackerRank-%23000000.svg?style=for-the-badge&logo=hackerrank&logoColor=%232EC866">
+  </a>
+  <a href="https://www.codechef.com/users/ritesh_jha_9">
+    <img src="https://img.shields.io/badge/CodeChef-%23000000.svg?style=for-the-badge&logo=codechef&logoColor=%23FF5722">
+  </a>
+  <a href="https://www.naukri.com/code360/profile/HazardousRJ">
+    <img src="https://img.shields.io/badge/CodingNinjas-%23000000.svg?style=for-the-badge&logo=codingninjas&logoColor=%23FF5722">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://unstop.com/u/ritesjha1626">
+    <img src="https://img.shields.io/badge/Unstop-%23000000.svg?style=for-the-badge&logo=stackexchange&logoColor=%23F3A802">
+  </a>
+  <a href="https://devfolio.co/@Hazardous">
+    <img src="https://img.shields.io/badge/Devfolio-%23000000.svg?style=for-the-badge&logo=devto&logoColor=%23FF5C8E">
+  </a>
+</p>
 
 ---
-
 
 
 <h2 align="center" style="color: #6a0dad;">Technologies I worked with</h2>
