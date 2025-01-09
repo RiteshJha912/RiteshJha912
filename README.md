@@ -214,7 +214,7 @@ Open for Freelance Opportunities
 ---
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/3722582/screenshots/15437705/media/078b5d2c8b521080bbbdfb8aa5737fcd.gif" alt="Working Man" width="500">
+  <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" alt="Working Man" width="500">
 </p>
 
 <p align="center" style="color: #5C4B8A;">
