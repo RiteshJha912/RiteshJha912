@@ -214,7 +214,7 @@ Open for Freelance Opportunities
 ---
 
 <p align="center">
-  <img src="https://i.gifer.com/embedded/download/33HI.gif" alt="Lonely Man" width="400">
+  <img src="https://soranews24.com/wp-content/uploads/sites/3/2015/07/tumblr_njlqclfisw1qze3hdo1_r2_500.gif" alt="Lonely Man" width="400">
 </p>
 
 <p align="center" style="color: #5C4B8A;">
