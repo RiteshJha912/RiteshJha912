@@ -193,7 +193,7 @@ Open for Freelance Opportunities
         <img src="https://ui.aceternity.com/logo-dark.png" alt="Aceterity UI" width="60"/>
       </td>
       <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://cdn-icons-png.flaticon.com/512/5038/5038308.png" alt="Under Progress" width="60"/>
+        <img src="https://pbs.twimg.com/profile_images/1735429515541938176/zOO1N7Su_400x400.jpg" alt="OnRender" width="60"/>
       </td>
       <td style="padding: 10px; text-align: center; width: 20%;">
         <img src="https://cdn-icons-png.flaticon.com/512/5038/5038308.png" alt="Under Progress" width="60"/>
