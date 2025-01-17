@@ -12,7 +12,7 @@
 Open for Freelance Opportunities    
 </h2>
 <p align="center" style="color: #5C4B8A;">
-  I am available for freelance projects that involve web development & cybersecurity.<br/>         
+  I am available for freelance projects.<br/>         
   You can contact me from the below links!    
 </p>
 <p align="center">
