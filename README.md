@@ -209,8 +209,9 @@ Open for Freelance Opportunities
 <h2 align="center" style="color: #6a0dad;">GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&theme=radical" alt="GitHub Stats" width="410">
-  <img src="https://activity-graph.herokuapp.com/graph?username=RiteshJha912&theme=radical" alt="Contribution Graph" width="600">
-
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RiteshJha912&theme=radical" alt="GitHub Streak Stats" width="410">
 </p>
 
 ---
