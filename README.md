@@ -195,6 +195,23 @@ Open for Freelance Opportunities
         <img src="https://pbs.twimg.com/profile_images/1735429515541938176/zOO1N7Su_400x400.jpg" alt="OnRender" width="60"/>
       </td>
       <td style="padding: 10px; text-align: center; width: 20%;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/800px-MetaMask_Fox.svg.png" alt="MetaMask" width="60"/>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; text-align: center; width: 20%;">
+        <img src="https://developers.moralis.com/wp-content/uploads/web3wiki/865-thirdweb/637e641e4af6707bf73085f8_yPm7N4KMk4j53zKjwGRjUK8JUuJ27YUwTfQvLworZdM.jpeg" alt="thirdWeb" width="60"/>
+      </td>
+      <td style="padding: 10px; text-align: center; width: 20%;">
+        <img src="https://cdn-icons-png.flaticon.com/512/5038/5038308.png" alt="Under Progress" width="60"/>
+      </td>
+      <td style="padding: 10px; text-align: center; width: 20%;">
+        <img src="https://cdn-icons-png.flaticon.com/512/5038/5038308.png" alt="Under Progress" width="60"/>
+      </td>
+      <td style="padding: 10px; text-align: center; width: 20%;">
+        <img src="https://cdn-icons-png.flaticon.com/512/5038/5038308.png" alt="Under Progress" width="60"/>
+      </td>
+      <td style="padding: 10px; text-align: center; width: 20%;">
         <img src="https://cdn-icons-png.flaticon.com/512/5038/5038308.png" alt="Under Progress" width="60"/>
       </td>
     </tr>
