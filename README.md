@@ -200,7 +200,7 @@ Open for Freelance Opportunities
     </tr>
     <tr>
       <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://developers.moralis.com/wp-content/uploads/web3wiki/865-thirdweb/637e641e4af6707bf73085f8_yPm7N4KMk4j53zKjwGRjUK8JUuJ27YUwTfQvLworZdM.jpeg" alt="thirdWeb" width="60"/>
+        <img src="https://images.mirror-media.xyz/publication-images/jwLubzIqj9ukuHAuSU8nN.png?height=1364&width=1364" alt="thirdWeb" width="60"/>
       </td>
       <td style="padding: 10px; text-align: center; width: 20%;">
         <img src="https://cdn-icons-png.flaticon.com/512/5038/5038308.png" alt="Under Progress" width="60"/>
