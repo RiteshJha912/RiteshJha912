@@ -230,7 +230,7 @@ Open for Freelance Opportunities
 ---
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/lptIayuGHV9Utu3iTv/giphy.gif?cid=6c09b952qukywaoevm5otbosc6nu729mmetzgy3al0l9mxmb&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Lonely Man" width="550">
+  <img src="https://i.gifer.com/FM9Y.gif" alt="portal" width="420">
 </p>
 
 <p align="center" style="color: #5C4B8A;">
