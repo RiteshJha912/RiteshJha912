@@ -230,7 +230,7 @@ Open for Freelance Opportunities
 ---
 
 <p align="center">
-  <img src="https://soranews24.com/wp-content/uploads/sites/3/2015/07/tumblr_njlqclfisw1qze3hdo1_r2_500.gif" alt="Lonely Man" width="420">
+  <img src="https://media0.giphy.com/media/lptIayuGHV9Utu3iTv/giphy.gif?cid=6c09b952qukywaoevm5otbosc6nu729mmetzgy3al0l9mxmb&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Lonely Man" width="420">
 </p>
 
 <p align="center" style="color: #5C4B8A;">
