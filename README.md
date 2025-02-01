@@ -195,7 +195,7 @@ Open for Freelance Opportunities
         <img src="https://pbs.twimg.com/profile_images/1735429515541938176/zOO1N7Su_400x400.jpg" alt="OnRender" width="60"/>
       </td>
       <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/800px-MetaMask_Fox.svg.png" alt="MetaMask" width="60"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/800px-MetaMask_Fox.svg.png" alt="Metamask" width="60"/>
       </td>
     </tr>
     <tr>
