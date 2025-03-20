@@ -29,9 +29,9 @@ I'm Open for Freelance Opportunities
   <a href="https://github.com/RiteshJha912">
     <img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=%23FFFFFF">
   </a>
-  <a href="https://leetcode.com/u/RiteshJha912/">
+<!--   <a href="https://leetcode.com/u/RiteshJha912/">
     <img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=%23FFA116">
-  </a>
+  </a> -->
   
 </p>
 <p align="center">
