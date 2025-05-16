@@ -232,55 +232,36 @@ I'm Open for Freelance Opportunities
 ---
 
 
-<h2 align="center" style="color: #6a0dad;"> Projects</h2> <div align="center">
-<a href="https://github.com/RiteshJha912/DC-OSINT-Toolkit"><b>DC OSINT Toolkit</b></a>
-A custom OSINT search engine crafted for cyber investigators.
+<h2 align="center" style="color: #6a0dad;">Projects</h2>
 
-<br><br>
+<div align="center">
 
-<a href="https://github.com/RiteshJha912/hnltech"><b>HNLTech.in</b></a>
-A sleek landing page built for a modern SaaS solutions company.
+  <p><a href="https://github.com/RiteshJha912/DC-OSINT-Toolkit"><b>DC OSINT Toolkit</b></a> — A custom OSINT search engine for cyber investigators.</p>
 
-<br><br>
+  <p><a href="https://github.com/RiteshJha912/hnltech"><b>HNLTech.in</b></a> — A sleek landing page for a modern SaaS solutions company.</p>
 
-<a href="https://github.com/RiteshJha912/DevFlipper"><b>DevFlipper</b></a>
-A 3D flipbook that stylishly showcases personal projects and work.
+  <p><a href="https://github.com/RiteshJha912/DevFlipper"><b>DevFlipper</b></a> — A 3D flipbook showcasing personal projects and work.</p>
 
-<br><br>
+  <p><a href="https://github.com/RiteshJha912/KoshKeeper"><b>Koshkeeper</b></a> — A minimal microfinance tool for managing expenses efficiently.</p>
 
-<a href="https://github.com/RiteshJha912/KoshKeeper"><b>Koshkeeper</b></a>
-A minimal microfinance tool to manage expenses efficiently.
+  <p><a href="https://github.com/RiteshJha912/TaskifyV2-UserSpecific"><b>Taskify</b></a> — A task manager to help you stay organized.</p>
 
-<br><br>
+  <p><a href="https://github.com/RiteshJha912/CofferCrypt"><b>CofferCrypt</b></a> — A lightweight tool to encrypt and decrypt files.</p>
 
-<a href="https://github.com/RiteshJha912/TaskifyV2-UserSpecific"><b>Taskify</b></a>
-A task manager to stay organized and on top of your goals.
+  <p><a href="https://github.com/RiteshJha912/DeceitDefuse"><b>Deceit Defused</b></a> — A professional website for a cyber-investigation firm.</p>
 
-<br><br>
+  <p><a href="https://github.com/RiteshJha912/quizapp-assignment2"><b>Quizzo</b></a> — A fast and interactive quiz platform.</p>
 
-<a href="https://github.com/RiteshJha912/CofferCrypt"><b>CofferCrypt</b></a>
-Encrypt and decrypt your files with this lightweight security tool.
-
-<br><br>
-
-<a href="https://github.com/RiteshJha912/DeceitDefuse"><b>Deceit Defused</b></a>
-A professional website built for a cyber-investigation firm.
-
-<br><br>
-
-<a href="https://github.com/RiteshJha912/quizapp-assignment2"><b>Quizzo</b></a>
-A quick and interactive platform for taking short quizzes.
-
-<br><br>
-
-<a href="https://github.com/RiteshJha912/snake-game"><b>Slinket.io</b></a>
-A fun retro game inspired by the classic Snake Xenzia.
+  <p><a href="https://github.com/RiteshJha912/snake-game"><b>Slinket.io</b></a> — A fun retro game inspired by Snake Xenzia.</p>
 
 </div>
 
+---
+
 <p align="center" style="color: #5C4B8A;">
-  Thank you for stopping by!     
+  Thank you for stopping by!
 </p>
+
 
 ---
 
