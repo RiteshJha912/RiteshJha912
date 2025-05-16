@@ -259,7 +259,8 @@ I'm Open for Freelance Opportunities
 ---
 
 <p align="center" style="color: #5C4B8A;">
-  Thank you for stopping by!
+  Thank you for stopping by    
+You are AWESOME!
 </p>
 
 
