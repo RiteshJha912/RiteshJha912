@@ -200,7 +200,7 @@
         <img src="https://images.mirror-media.xyz/publication-images/jwLubzIqj9ukuHAuSU8nN.png?height=1364&width=1364" alt="thirdWeb" width="60"/>
       </td>
       <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/571/460/datas/original.png" alt="Svelte" width="60"/>
+        <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/571/460/datas/original.png" alt="Svelte" width="50"/>
       </td>
       <td style="padding: 10px; text-align: center; width: 20%;">
         <img src="https://cdn-icons-png.flaticon.com/512/5038/5038308.png" alt="Under Progress" width="60"/>
