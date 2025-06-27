@@ -200,7 +200,7 @@
         <img src="https://images.mirror-media.xyz/publication-images/jwLubzIqj9ukuHAuSU8nN.png?height=1364&width=1364" alt="thirdWeb" width="60"/>
       </td>
       <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://cdn-icons-png.flaticon.com/512/5038/5038308.png" alt="Under Progress" width="60"/>
+        <img src="https://sourcebae.com/blog/wp-content/uploads/2023/08/9969f494-sveltelogo.png" alt="Svelte" width="60"/>
       </td>
       <td style="padding: 10px; text-align: center; width: 20%;">
         <img src="https://cdn-icons-png.flaticon.com/512/5038/5038308.png" alt="Under Progress" width="60"/>
