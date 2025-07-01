@@ -257,7 +257,8 @@
 
 <p align="center" style="color: #5C4B8A;">
   Thank you for stopping by  <br>  
-You are AWESOME!
+You are AWESOME!<br> 
+  (Also just a sidenote, I am so done with my Life.)
 </p>
 
 
