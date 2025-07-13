@@ -58,159 +58,69 @@
 <h2 align="center" style="color: #6a0dad;">Technologies I worked with</h2>
 
 <div align="center">
-  <table style="border-collapse: collapse; width: 100%; max-width: 800px;">
+  <table style="border-collapse: collapse; max-width: 800px; width: 100%;">
     <tr>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60"/>
-      </td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="width:60px; height:60px; object-fit: contain;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://cdn.iconscout.com/icon/free/png-256/free-lottiefiles-logo-icon-download-in-svg-png-gif-file-formats--lottifiles-brand-iconscout-pack-logos-icons-4674917.png" alt="Lottie" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="Framer Motion" width="60"/>
-      </td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-256/free-lottiefiles-logo-icon-download-in-svg-png-gif-file-formats--lottifiles-brand-iconscout-pack-logos-icons-4674917.png" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" style="width:60px; height:60px; object-fit: contain;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="60"/>
-      </td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="width:60px; height:60px; object-fit: contain;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="Three.js" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="60"/>
-      </td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" style="width:60px; height:60px; object-fit: contain;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://cdn-icons-png.flaticon.com/512/10169/10169724.png" alt="REST API" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://static-00.iconduck.com/assets.00/distributor-logo-kali-linux-icon-2048x2005-dki611fk.png" alt="Kali Linux" width="60"/>
-      </td>
+      <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/10169/10169724.png" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://static-00.iconduck.com/assets.00/distributor-logo-kali-linux-icon-2048x2005-dki611fk.png" style="width:60px; height:60px; object-fit: contain;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://smlvqzf0a1b66cku.public.blob.vercel-storage.com/images/Vercel%20Logo-IMoeV2W33gFclXzAfZxmAHqtjBuTzP.png" alt="Vercel" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" alt="Jupyter" width="60"/>
-      </td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://smlvqzf0a1b66cku.public.blob.vercel-storage.com/images/Vercel%20Logo-IMoeV2W33gFclXzAfZxmAHqtjBuTzP.png" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" style="width:60px; height:60px; object-fit: contain;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://avatars.githubusercontent.com/u/288276?s=280&v=4" alt="NumPy" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" alt="Pandas" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="Matplotlib" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="Netlify" width="60"/>
-      </td>
+      <td align="center"><img src="https://avatars.githubusercontent.com/u/288276?s=280&v=4" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" style="width:60px; height:60px; object-fit: contain;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://git.lab.sspcloud.fr/uploads/-/system/project/avatar/1748/logo.png" alt="MobSF" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://ph-files.imgix.net/297bc3d4-bd2e-4eaa-8fb6-a289cf61ea91.png?auto=format" alt="Clerk" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://ui.aceternity.com/logo-dark.png" alt="Aceterity UI" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://pbs.twimg.com/profile_images/1735429515541938176/zOO1N7Su_400x400.jpg" alt="OnRender" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/800px-MetaMask_Fox.svg.png" alt="Metamask" width="60"/>
-      </td>
+      <td align="center"><img src="https://git.lab.sspcloud.fr/uploads/-/system/project/avatar/1748/logo.png" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://ph-files.imgix.net/297bc3d4-bd2e-4eaa-8fb6-a289cf61ea91.png?auto=format" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://ui.aceternity.com/logo-dark.png" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://pbs.twimg.com/profile_images/1735429515541938176/zOO1N7Su_400x400.jpg" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/800px-MetaMask_Fox.svg.png" style="width:60px; height:60px; object-fit: contain;"></td>
     </tr>
     <tr>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://images.mirror-media.xyz/publication-images/jwLubzIqj9ukuHAuSU8nN.png?height=1364&width=1364" alt="thirdWeb" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/571/460/datas/original.png" alt="Svelte" width="50"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://cdn-icons-png.flaticon.com/512/5038/5038308.png" alt="Under Progress" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://cdn-icons-png.flaticon.com/512/5038/5038308.png" alt="Under Progress" width="60"/>
-      </td>
-      <td style="padding: 10px; text-align: center; width: 20%;">
-        <img src="https://cdn-icons-png.flaticon.com/512/5038/5038308.png" alt="Under Progress" width="60"/>
-      </td>
+      <td align="center"><img src="https://images.mirror-media.xyz/publication-images/jwLubzIqj9ukuHAuSU8nN.png?height=1364&width=1364" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/571/460/datas/original.png" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/5038/5038308.png" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/5038/5038308.png" style="width:60px; height:60px; object-fit: contain;"></td>
+      <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/5038/5038308.png" style="width:60px; height:60px; object-fit: contain;"></td>
     </tr>
   </table>
 </div>
