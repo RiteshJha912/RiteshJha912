@@ -17,7 +17,6 @@
   <a href="https://discord.com/users/riteshjha912"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="font-size: 1.2em;"></a>
 </p>
 
-
 <h3 align="center" style="color: #5C4B8A;">Other Socials</h3>
 <p align="center">
   <a href="https://about-ritesh.netlify.app/">
@@ -26,10 +25,12 @@
   <a href="https://github.com/RiteshJha912">
     <img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=%23FFFFFF">
   </a>
-<!--   <a href="https://leetcode.com/u/RiteshJha912/">
+  <a href="https://leetcode.com/u/RiteshJha912/">
     <img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=%23FFA116">
-  </a> -->
-  
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/riteshjr7mk/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-%23000000.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=%2300C853">
+  </a>
 </p>
 <p align="center">
   <a href="https://www.hackerrank.com/profile/riteshjha2174">
