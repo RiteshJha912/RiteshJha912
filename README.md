@@ -55,45 +55,12 @@
 
 
 ---
-
-
-
-
-
----
 <h2 align="center" style="color: #6a0dad;">GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&theme=radical" alt="GitHub Stats" width="410">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshJha912&theme=radical" alt="GitHub Streak" width="410">
 </p>
-
----
-
-
-<h2 align="center" style="color: #6a0dad;">Projects</h2>
-
-<div align="center">
-
-  <p><a href="https://github.com/RiteshJha912/DC-OSINT-Toolkit"><b>DC OSINT Toolkit</b></a> — A custom OSINT search engine for cyber investigators.</p>
-
-  <p><a href="https://github.com/RiteshJha912/hnltech"><b>HNLTech.in</b></a> — A sleek landing page for a modern SaaS solutions company.</p>
-
-  <p><a href="https://github.com/RiteshJha912/DevFlipper"><b>DevFlipper</b></a> — A 3D flipbook showcasing personal projects and work.</p>
-
-  <p><a href="https://github.com/RiteshJha912/KoshKeeper"><b>Koshkeeper</b></a> — A minimal microfinance tool for managing expenses efficiently.</p>
-
-  <p><a href="https://github.com/RiteshJha912/TaskifyV2-UserSpecific"><b>Taskify</b></a> — A task manager to help you stay organized.</p>
-
-  <p><a href="https://github.com/RiteshJha912/CofferCrypt"><b>CofferCrypt</b></a> — A lightweight tool to encrypt and decrypt files.</p>
-
-  <p><a href="https://github.com/RiteshJha912/DeceitDefuse"><b>Deceit Defused</b></a> — A professional website for a cyber-investigation firm.</p>
-
-  <p><a href="https://github.com/RiteshJha912/quizapp-assignment2"><b>Quizzo</b></a> — A fast and interactive quiz platform.</p>
-
-  <p><a href="https://github.com/RiteshJha912/snake-game"><b>Slinket.io</b></a> — A fun retro game inspired by Snake Xenzia.</p>
-
-</div>
 
 ---
 
