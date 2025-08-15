@@ -25,7 +25,7 @@
   <a href="https://github.com/RiteshJha912">
     <img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=%23FFFFFF">
   </a>
-  <a href="https://leetcode.com/u/RiteshJha912/">
+  <a href="https://leetcode.com/u/ritzardous/">
     <img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=%23FFA116">
   </a>
   <a href="https://www.geeksforgeeks.org/user/riteshjr7mk/">
@@ -33,10 +33,10 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://www.hackerrank.com/profile/riteshjha2174">
+  <a href="https://www.hackerrank.com/profile/ritzardous">
     <img src="https://img.shields.io/badge/HackerRank-%23000000.svg?style=for-the-badge&logo=hackerrank&logoColor=%232EC866">
   </a>
-  <a href="https://www.codechef.com/users/ritesh_jha_9">
+  <a href="https://www.codechef.com/users/ritzardous">
     <img src="https://img.shields.io/badge/CodeChef-%23000000.svg?style=for-the-badge&logo=codechef&logoColor=%23FF5722">
   </a>
   <a href="https://www.naukri.com/code360/profile/HazardousRJ">
@@ -52,6 +52,7 @@
     <img src="https://img.shields.io/badge/Devfolio-%23000000.svg?style=for-the-badge&logo=devto&logoColor=%23FF5C8E">
   </a>
 </p>
+
 
 ---
 
