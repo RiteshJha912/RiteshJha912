@@ -22,9 +22,6 @@
   <a href="https://about-ritesh.netlify.app/">
     <img src="https://img.shields.io/badge/Personal%20Website-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2300FFFF">
   </a>
-  <a href="https://github.com/RiteshJha912">
-    <img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=%23FFFFFF">
-  </a>
   <a href="https://leetcode.com/u/ritzardous/">
     <img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=%23FFA116">
   </a>
