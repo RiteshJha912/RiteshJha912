@@ -22,9 +22,6 @@
   <a href="https://about-ritesh.netlify.app/">
     <img src="https://img.shields.io/badge/Personal%20Website-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2300FFFF">
   </a>
-  <a href="https://leetcode.com/u/ritzardous/">
-    <img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=%23FFA116">
-  </a>
   <a href="https://www.geeksforgeeks.org/user/riteshjr7mk/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-%23000000.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=%2300C853">
   </a>
@@ -32,9 +29,6 @@
 <p align="center">
   <a href="https://www.hackerrank.com/profile/ritzardous">
     <img src="https://img.shields.io/badge/HackerRank-%23000000.svg?style=for-the-badge&logo=hackerrank&logoColor=%232EC866">
-  </a>
-  <a href="https://www.codechef.com/users/ritzardous">
-    <img src="https://img.shields.io/badge/CodeChef-%23000000.svg?style=for-the-badge&logo=codechef&logoColor=%23FF5722">
   </a>
   <a href="https://www.naukri.com/code360/profile/HazardousRJ">
     <img src="https://img.shields.io/badge/CodingNinjas-%23000000.svg?style=for-the-badge&logo=codingninjas&logoColor=%23FF5722">
@@ -49,7 +43,6 @@
     <img src="https://img.shields.io/badge/Devfolio-%23000000.svg?style=for-the-badge&logo=devto&logoColor=%23FF5C8E">
   </a>
 </p>
-
 
 ---
 <h2 align="center" style="color: #6a0dad;">GitHub Stats</h2>
