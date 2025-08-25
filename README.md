@@ -8,9 +8,9 @@
 
 ---
 
-<p align="center" style="color: #5C4B8A;">       
-  You can contact me from the below links!    
-</p>
+<h3 align="center" style="color: #5C4B8A;">       
+ Contact Me :    
+</h3>
 <p align="center">
   <a href="mailto:riteshjha2174@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="font-size: 1.2em;"></a>
   <a href="https://wa.me/918433517682"><img src="https://img.shields.io/badge/WhatsApp-%25C34D1D.svg?style=for-the-badge&logo=whatsapp&logoColor=white" style="font-size: 1.2em;"></a>
