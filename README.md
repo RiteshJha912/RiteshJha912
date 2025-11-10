@@ -71,7 +71,7 @@
   <samp>
     Thanks for stopping by <br>
     <b>You’re awesome!</b><br>
-    <sub>Sometimes I fix bugs... sometimes I create them.</sub>
+    <sub>i mostly break stuff in the persuit of trying to create them, and sometimes i PRETEND to KNOW i'm doing</sub>
   </samp>
 </p>
 
