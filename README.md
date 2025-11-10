@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-%23000000.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=%2300C853">
   </a>
   <a href="https://about-ritesh.netlify.app/">
-    <img src="https://img.shields.io/badge/Personal%20Website-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2300FFFF">
+    <img src="https://img.shields.io/badge/⚡%20Personal%20Website-1A1A1A.svg?style=for-the-badge&logo=react&logoColor=%2300FFFF&labelColor=0D0D0D">
   </a>
   <a href="https://www.hackerrank.com/profile/ritzardous">
     <img src="https://img.shields.io/badge/HackerRank-%23000000.svg?style=for-the-badge&logo=hackerrank&logoColor=%232EC866">
@@ -55,21 +55,6 @@
   </a>
 </p>
 
-<!-- Optional subtle glowing effect for Personal Website -->
-<style>
-  a[href="https://about-ritesh.netlify.app/"] img {
-    animation: glow 2s infinite alternate;
-    border-radius: 6px;
-  }
-  @keyframes glow {
-    from {
-      box-shadow: 0 0 5px #00ffff88, 0 0 10px #00ffff44;
-    }
-    to {
-      box-shadow: 0 0 12px #00ffffcc, 0 0 20px #00ffff88;
-    }
-  }
-</style>
 
 
 ---
