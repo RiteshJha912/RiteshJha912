@@ -71,7 +71,7 @@
   <samp>
     Thanks for stopping by <br>
     <b>You’re awesome!</b><br>
-    <sub>i mostly break stuff in the persuit of trying to create them, and sometimes i PRETEND to KNOW i'm doing</sub>
+    <sub>i mostly break stuff in the persuit of trying to create them, and sometimes i PRETEND to KNOW what i'm doing</sub>
   </samp>
 </p>
 
