@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-%23000000.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=%2300C853">
   </a>
   <a href="https://about-ritesh.netlify.app/">
-    <img src="https://img.shields.io/badge/⚡%20Personal%20Website-1A1A1A.svg?style=for-the-badge&logo=react&logoColor=%2300FFFF&labelColor=0D0D0D">
+    <img src="https://img.shields.io/badge/%20Personal%20Website-1A1A1A.svg?style=for-the-badge&logo=react&logoColor=%2300FFFF&labelColor=0D0D0D">
   </a>
   <a href="https://www.hackerrank.com/profile/ritzardous">
     <img src="https://img.shields.io/badge/HackerRank-%23000000.svg?style=for-the-badge&logo=hackerrank&logoColor=%232EC866">
