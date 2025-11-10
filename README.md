@@ -18,23 +18,34 @@
 </p>
 
 <h3 align="center" style="color: #5C4B8A;">Other Socials</h3>
+
+<!-- Row 1 -->
 <p align="center">
-  <a href="https://about-ritesh.netlify.app/">
-    <img src="https://img.shields.io/badge/Personal%20Website-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2300FFFF">
+  <a href="https://leetcode.com/u/ritzardous/">
+    <img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=%23FFA116">
   </a>
-  <a href="https://www.geeksforgeeks.org/user/riteshjr7mk/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-%23000000.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=%2300C853">
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.hackerrank.com/profile/ritzardous">
-    <img src="https://img.shields.io/badge/HackerRank-%23000000.svg?style=for-the-badge&logo=hackerrank&logoColor=%232EC866">
+  <a href="https://www.codechef.com/users/ritzardous">
+    <img src="https://img.shields.io/badge/CodeChef-%23000000.svg?style=for-the-badge&logo=codechef&logoColor=%23B2723A">
   </a>
   <a href="https://www.naukri.com/code360/profile/HazardousRJ">
     <img src="https://img.shields.io/badge/CodingNinjas-%23000000.svg?style=for-the-badge&logo=codingninjas&logoColor=%23FF5722">
   </a>
 </p>
 
+<!-- Row 2 -->
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/user/riteshjr7mk/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-%23000000.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=%2300C853">
+  </a>
+  <a href="https://about-ritesh.netlify.app/">
+    <img src="https://img.shields.io/badge/Personal%20Website-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2300FFFF">
+  </a>
+  <a href="https://www.hackerrank.com/profile/ritzardous">
+    <img src="https://img.shields.io/badge/HackerRank-%23000000.svg?style=for-the-badge&logo=hackerrank&logoColor=%232EC866">
+  </a>
+</p>
+
+<!-- Row 3 -->
 <p align="center">
   <a href="https://unstop.com/u/ritesjha1626">
     <img src="https://img.shields.io/badge/Unstop-%23000000.svg?style=for-the-badge&logo=stackexchange&logoColor=%23F3A802">
@@ -43,6 +54,23 @@
     <img src="https://img.shields.io/badge/Devfolio-%23000000.svg?style=for-the-badge&logo=devto&logoColor=%23FF5C8E">
   </a>
 </p>
+
+<!-- Optional subtle glowing effect for Personal Website -->
+<style>
+  a[href="https://about-ritesh.netlify.app/"] img {
+    animation: glow 2s infinite alternate;
+    border-radius: 6px;
+  }
+  @keyframes glow {
+    from {
+      box-shadow: 0 0 5px #00ffff88, 0 0 10px #00ffff44;
+    }
+    to {
+      box-shadow: 0 0 12px #00ffffcc, 0 0 20px #00ffff88;
+    }
+  }
+</style>
+
 
 ---
 <h2 align="center" style="color: #6a0dad;">GitHub Stats</h2>
