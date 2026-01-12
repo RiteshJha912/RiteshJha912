@@ -80,7 +80,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RiteshJha912&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views">
   <img src="https://img.shields.io/github/followers/RiteshJha912?color=36BCF7&label=Followers&style=for-the-badge" alt="GitHub Followers">
+</p>
 
+<p align="center">
   Thanks for stopping by <br>
     <b>You’re awesome!</b><br>
 </p>
