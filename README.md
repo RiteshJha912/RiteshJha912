@@ -69,7 +69,7 @@
 
 <p align="center">
   <samp>
-   <sub>i mostly break stuff in the persuit of trying to create them, and sometimes i PRETEND to KNOW what i'm doing</sub>
+   <sub>sometimes i PRETEND to KNOW what i'm doing</sub>
   </samp>
 </p>
 
