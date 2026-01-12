@@ -69,10 +69,7 @@
 
 <p align="center">
   <samp>
-    Thanks for stopping by <br>
-    <b>You’re awesome!</b><br>
-    
-    <sub>i mostly break stuff in the persuit of trying to create them, and sometimes i PRETEND to KNOW what i'm doing</sub>
+   <sub>i mostly break stuff in the persuit of trying to create them, and sometimes i PRETEND to KNOW what i'm doing</sub>
   </samp>
 </p>
 
@@ -83,4 +80,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RiteshJha912&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views">
   <img src="https://img.shields.io/github/followers/RiteshJha912?color=36BCF7&label=Followers&style=for-the-badge" alt="GitHub Followers">
+
+  Thanks for stopping by <br>
+    <b>You’re awesome!</b><br>
 </p>
