@@ -1,7 +1,6 @@
 <h1 align="center">
   Hi there, I'm <a href="https://about-ritesh.netlify.app/" target="_blank">Ritz</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%2368A4FF&size=28&center=true&vCenter=true&width=550&lines=Developer+%7C+Cybersecurity+Analyst;Freelancer+for+Hire;Algorithms+enjoyer" alt="Typing SVG">
 </p>
@@ -37,8 +36,8 @@
   <a href="https://www.geeksforgeeks.org/user/riteshjr7mk/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-%23000000.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=%2300C853">
   </a>
-  <a href="https://about-ritesh.netlify.app/">
-    <img src="https://img.shields.io/badge/%20Personal%20Website-1A1A1A.svg?style=for-the-badge&logo=react&logoColor=%2300FFFF&labelColor=0D0D0D">
+  <a href="https://codolio.com/profile/ritzardous">
+    <img src="https://img.shields.io/badge/Codolio-%23000000.svg?style=for-the-badge&logo=code&logoColor=%2368A4FF">
   </a>
   <a href="https://www.hackerrank.com/profile/ritzardous">
     <img src="https://img.shields.io/badge/HackerRank-%23000000.svg?style=for-the-badge&logo=hackerrank&logoColor=%232EC866">
@@ -47,6 +46,9 @@
 
 <!-- Row 3 -->
 <p align="center">
+  <a href="https://about-ritesh.netlify.app/">
+    <img src="https://img.shields.io/badge/%20Personal%20Website-1A1A1A.svg?style=for-the-badge&logo=react&logoColor=%2300FFFF&labelColor=0D0D0D">
+  </a>
   <a href="https://unstop.com/u/ritesjha1626">
     <img src="https://img.shields.io/badge/Unstop-%23000000.svg?style=for-the-badge&logo=stackexchange&logoColor=%23F3A802">
   </a>
@@ -55,10 +57,10 @@
   </a>
 </p>
 
-
-
 ---
+
 <h2 align="center" style="color: #6a0dad;">GitHub Stats</h2>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RiteshJha912&show_icons=true&theme=radical" alt="GitHub Stats" width="410">
   <br>
@@ -73,9 +75,7 @@
   </samp>
 </p>
 
-
 ---
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RiteshJha912&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views">
@@ -84,5 +84,5 @@
 
 <p align="center">
   Thanks for stopping by <br>
-    <b>You’re awesome!</b><br>
+    <b>You're awesome!</b><br>
 </p>
