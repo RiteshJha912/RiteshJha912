@@ -3,60 +3,18 @@
 # whoami
 
 ```
-> Ritesh Jha ("Ritz")
-> Builder of things that index votes, models, and the occasional rabbit hole
-> Status: probably debugging a race condition right now
+> Ritesh Jha ("Ritzy")
+> Builder of things 
+> Status: probably sleeping or cribbing about pending work
 ```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=68A4FF&center=true&vCenter=true&width=600&lines=building+systems+that+outlive+the+hackathon;ex-cybersec+analyst%2C+current+full-stack+menace;LLMs%2C+chains%2C+contracts+%E2%80%94+pick+a+layer;currently+arguing+with+a+race+condition" alt="Typing SVG" />
 
 </div>
 
-<br>
-
-### → currently
-
-```diff
-+ shipping edge-ML inference on ESP32 hardware (Smowcode)
-+ indexing on-chain votes faster than the chain itself (Democrazy)
-+ teaching LLMs to write requirement docs so I don't have to (InitPhase)
-- sleep schedule
-```
 
 <br>
 
-### → things I've built that didn't die in a `git init`
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**[Democrazy](https://github.com/RiteshJha912)**
-Decentralized governance on Ethereum. Custom event-indexer cut read latency by **90%**. Gas-optimized contracts, zero double-votes, ever.
-
-`Solidity` `Hardhat` `Ethers.js` `MongoDB`
-
-</td>
-<td width="33%" valign="top">
-
-**[InitPhase](https://github.com/RiteshJha912)**
-SaaS that turns a vague product idea into a BRD before you finish your coffee. Sub-2s AI orchestration, multi-tenant, RTM analytics built in.
-
-`React` `Node.js` `Groq · LLaMA 3.1` `JWT`
-
-</td>
-<td width="33%" valign="top">
-
-**[PaperOps.ai](https://github.com/RiteshJha912)**
-A ReAct agent that researches the internet so you don't have to. Sub-1s loop, 10k+ char reports, rate-limit-proof by design.
-
-`Python` `LangChain` `BeautifulSoup`
-
-</td>
-</tr>
-</table>
-
-<br>
 
 ### → stack I reach for at 2 AM
 
@@ -104,7 +62,6 @@ A ReAct agent that researches the internet so you don't have to. Sub-1s loop, 10
 <br>
 
 <div align="center">
-<sub>140+ DSA grinds deep · led teams of 22 · still googles array syntax</sub>
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=RiteshJha912&label=visitors&color=68A4FF&style=flat-square" alt="views" />
 <img src="https://img.shields.io/github/followers/RiteshJha912?color=68A4FF&label=followers&style=flat-square" alt="followers" />
