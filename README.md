@@ -8,7 +8,7 @@
 > Status: probably sleeping or cribbing about pending work
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=68A4FF&center=true&vCenter=true&width=600&lines=building+systems+that+outlive+me;ex-cybersec+analyst%2C+current+full-stack+menace;LLMs%2C+chains%2C+agents+%E2%80%94+pick+a+layer;currently+arguing+with+a+race+condition" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=68A4FF&center=true&vCenter=true&width=600&lines=building+systems+that+outlive+me;cybersec+analyst%2C+currently+full-stack+%2B+applied+AI;LLMs%2C+chains%2C+agents+%E2%80%94+pick+a+layer;currently+arguing+with+a+race+condition" alt="Typing SVG" />
 
 </div>
 
