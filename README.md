@@ -5,7 +5,7 @@
 ```
 > Ritesh Jha ("Ritzy")
 > Builder of things 
-> Status: probably sleeping or cribbing about pending work
+> Status: probably sleeping/cribbing
 ```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=68A4FF&center=true&vCenter=true&width=600&lines=building+systems+that+outlive+me;cybersec+analyst+turned+builder;currently+full-stack+%2B+applied+AI;LLMs%2C+chains%2C+agents+%E2%80%94+pick+a+layer;currently+arguing+with+a+GPT" alt="Typing SVG" />
