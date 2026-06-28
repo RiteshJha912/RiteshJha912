@@ -47,6 +47,9 @@
 [![Portfolio](https://img.shields.io/badge/-about--ritesh.netlify.app-1A1A1A?style=flat-square&logo=vercel&logoColor=white)](https://about-ritesh.netlify.app/)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://ritzardous.medium.com/)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/918433517682)
+
+<br>
+
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/ritzardous/)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/ritzardous)
 [![GFG](https://img.shields.io/badge/-GFG-00C853?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/riteshjr7mk/)
